@@ -1,0 +1,1824 @@
+the epoch: 0
+The accuracy: 0.6381
+The loss: 52.56584098935127
+The precision: 0.6380999993619001
+The recall: 0.6363745700824744
+The F1: 0.6372356167495444
+
+
+the epoch: 1
+The accuracy: 0.7303
+The loss: 41.448615089058876
+The precision: 0.7302999992697
+The recall: 0.7385165966502361
+The F1: 0.734384816048633
+
+
+the epoch: 2
+The accuracy: 0.7444
+The loss: 38.65151170641184
+The precision: 0.7443999992556
+The recall: 0.7554544050653756
+The F1: 0.7498859649379345
+
+
+the epoch: 3
+The accuracy: 0.7703
+The loss: 35.642060808837414
+The precision: 0.7702999992297
+The recall: 0.7765888931396346
+The F1: 0.7734311624093627
+
+
+the epoch: 4
+The accuracy: 0.7899
+The loss: 32.766964100301266
+The precision: 0.7898999992101
+The recall: 0.7899573163974128
+The F1: 0.7899281567643405
+
+
+the epoch: 5
+The accuracy: 0.7994
+The loss: 31.750199422240257
+The precision: 0.7993999992006
+The recall: 0.7980292053797087
+The F1: 0.7987135141346612
+
+
+the epoch: 6
+The accuracy: 0.7997
+The loss: 31.5789335668087
+The precision: 0.7996999992003
+The recall: 0.8010643171461702
+The F1: 0.8003810767755629
+
+
+the epoch: 7
+The accuracy: 0.7919
+The loss: 32.306403525173664
+The precision: 0.7918999992081
+The recall: 0.7938240650650814
+The F1: 0.792860364838266
+
+
+the epoch: 8
+The accuracy: 0.799
+The loss: 31.701323471963406
+The precision: 0.7989999992010001
+The recall: 0.8014087489155649
+The F1: 0.8002020613743139
+
+
+the epoch: 9
+The accuracy: 0.7998
+The loss: 31.752820514142513
+The precision: 0.7997999992002001
+The recall: 0.8010891306065367
+The F1: 0.8004435458612581
+
+
+the epoch: 10
+The accuracy: 0.7972
+The loss: 32.0458223298192
+The precision: 0.7971999992027999
+The recall: 0.7995602307714397
+The F1: 0.7983778706148389
+
+
+the epoch: 11
+The accuracy: 0.7971
+The loss: 32.87286068499088
+The precision: 0.7970999992029
+The recall: 0.796756857846793
+The F1: 0.7969278915877415
+
+
+the epoch: 12
+The accuracy: 0.7837
+The loss: 35.22574105113745
+The precision: 0.7836999992163
+The recall: 0.7881831023128425
+The F1: 0.7859346577320458
+
+
+the epoch: 13
+The accuracy: 0.7949
+The loss: 33.21633303165436
+The precision: 0.7948999992051
+The recall: 0.7944991122758946
+The F1: 0.7946990051838978
+
+
+the epoch: 14
+The accuracy: 0.7928
+The loss: 33.204831302165985
+The precision: 0.7927999992071999
+The recall: 0.7953681790302618
+The F1: 0.7940815126565082
+
+
+the epoch: 15
+The accuracy: 0.7899
+The loss: 33.32383630424738
+The precision: 0.7898999992101
+The recall: 0.792100329954118
+The F1: 0.7909981344145
+
+
+the epoch: 16
+The accuracy: 0.7882
+The loss: 33.68321721255779
+The precision: 0.7881999992118
+The recall: 0.7879647635695097
+The F1: 0.788081863837042
+
+
+the epoch: 17
+The accuracy: 0.7868
+The loss: 33.89096153527498
+The precision: 0.7867999992132001
+The recall: 0.792132399335858
+The F1: 0.7894566949396741
+
+
+the epoch: 18
+The accuracy: 0.788
+The loss: 33.80018926411867
+The precision: 0.787999999212
+The recall: 0.7910798160780981
+The F1: 0.7895364042297593
+
+
+the epoch: 19
+The accuracy: 0.7878
+The loss: 33.94033429771662
+The precision: 0.7877999992122
+The recall: 0.7907008333451745
+The F1: 0.7892472508279752
+
+
+the epoch: 20
+The accuracy: 0.7781
+The loss: 35.76183048635721
+The precision: 0.7780999992219001
+The recall: 0.7880601813274757
+The F1: 0.7830479188133439
+
+
+the epoch: 21
+The accuracy: 0.7835
+The loss: 34.67375610023737
+The precision: 0.7834999992164999
+The recall: 0.7846855643465982
+The F1: 0.7840918336321674
+
+
+the epoch: 22
+The accuracy: 0.7765
+The loss: 34.92948491126299
+The precision: 0.7764999992235
+The recall: 0.7785205266716001
+The F1: 0.7775084502550564
+
+
+the epoch: 23
+The accuracy: 0.7867
+The loss: 34.92389686405659
+The precision: 0.7866999992133
+The recall: 0.7886121173464621
+The F1: 0.787654397813839
+
+
+the epoch: 24
+The accuracy: 0.7811
+The loss: 35.61091462522745
+The precision: 0.7810999992189
+The recall: 0.7827039448704409
+The F1: 0.7819006494866326
+
+
+the epoch: 25
+The accuracy: 0.7852
+The loss: 34.90830661356449
+The precision: 0.7851999992147999
+The recall: 0.7879430751135444
+The F1: 0.7865686456272147
+
+
+the epoch: 26
+The accuracy: 0.7807
+The loss: 35.13180074095726
+The precision: 0.7806999992193
+The recall: 0.7815083791353494
+The F1: 0.7811034800257546
+
+
+the epoch: 27
+The accuracy: 0.7792
+The loss: 35.35724526643753
+The precision: 0.7791999992208
+The recall: 0.7828319819768546
+The F1: 0.7810112681214856
+
+
+the epoch: 28
+The accuracy: 0.7747
+The loss: 35.826690286397934
+The precision: 0.7746999992253
+The recall: 0.7788095812686056
+The F1: 0.7767488546021035
+
+
+the epoch: 29
+The accuracy: 0.7764
+The loss: 35.67025050520897
+The precision: 0.7763999992235998
+The recall: 0.7788151871293283
+The F1: 0.7776052178321643
+
+
+the epoch: 30
+The accuracy: 0.7734
+The loss: 36.19238309562206
+The precision: 0.7733999992266
+The recall: 0.7768822326944439
+The F1: 0.7751367050787311
+
+
+the epoch: 31
+The accuracy: 0.7703
+The loss: 36.22915059328079
+The precision: 0.7702999992297
+The recall: 0.7774033282815156
+The F1: 0.7738348630702244
+
+
+the epoch: 32
+The accuracy: 0.7753
+The loss: 36.17656280845404
+The precision: 0.7752999992247
+The recall: 0.7739067087707927
+The F1: 0.7746022274654619
+
+
+the epoch: 33
+The accuracy: 0.7739
+The loss: 36.03834566473961
+The precision: 0.7738999992261
+The recall: 0.7814044765047432
+The F1: 0.7776336330046388
+
+
+the epoch: 34
+The accuracy: 0.7689
+The loss: 36.99671261012554
+The precision: 0.7688999992311
+The recall: 0.7716298661172166
+The F1: 0.7702620139714943
+
+
+the epoch: 35
+The accuracy: 0.7751
+The loss: 36.28292164206505
+The precision: 0.7750999992248999
+The recall: 0.7758417983519544
+The F1: 0.7754702213915092
+
+
+the epoch: 36
+The accuracy: 0.7749
+The loss: 35.94399379938841
+The precision: 0.7748999992251
+The recall: 0.7755275897566483
+The F1: 0.7752131674715202
+
+
+the epoch: 37
+The accuracy: 0.7706
+The loss: 36.67460685968399
+The precision: 0.7705999992294
+The recall: 0.7714087790523891
+The F1: 0.7710036770398394
+
+
+the epoch: 38
+The accuracy: 0.7645
+The loss: 37.60726531594992
+The precision: 0.7644999992355002
+The recall: 0.7705052321277646
+The F1: 0.767490368882058
+
+
+the epoch: 39
+The accuracy: 0.7764
+The loss: 36.09836416691542
+The precision: 0.7763999992236001
+The recall: 0.778973307102168
+The F1: 0.7776840244429962
+
+
+the epoch: 40
+The accuracy: 0.7731
+The loss: 36.39654566347599
+The precision: 0.7730999992269001
+The recall: 0.7741929618358128
+The F1: 0.7736455945134779
+
+
+the epoch: 41
+The accuracy: 0.7798
+The loss: 35.289924547076225
+The precision: 0.7797999992201999
+The recall: 0.7803051899626856
+The F1: 0.7800520127967907
+
+
+the epoch: 42
+The accuracy: 0.7681
+The loss: 36.63984590768814
+The precision: 0.7680999992319001
+The recall: 0.7734661597261333
+The F1: 0.7707732397375456
+
+
+the epoch: 43
+The accuracy: 0.7703
+The loss: 36.575557477772236
+The precision: 0.7702999992296999
+The recall: 0.7734383342843237
+The F1: 0.7718654767281963
+
+
+the epoch: 44
+The accuracy: 0.765
+The loss: 37.17556278407574
+The precision: 0.7649999992349998
+The recall: 0.7704004460672607
+The F1: 0.7676902251919878
+
+
+the epoch: 45
+The accuracy: 0.7689
+The loss: 37.08939728885889
+The precision: 0.7688999992311001
+The recall: 0.7714890671440137
+The F1: 0.7701918573517722
+
+
+the epoch: 46
+The accuracy: 0.7707
+The loss: 37.041707910597324
+The precision: 0.7706999992293
+The recall: 0.7730936938716941
+The F1: 0.7718944908072864
+
+
+the epoch: 47
+The accuracy: 0.7637
+The loss: 37.49569369107485
+The precision: 0.7636999992363
+The recall: 0.7638775513116738
+The F1: 0.7637882649557812
+
+
+the epoch: 48
+The accuracy: 0.7656
+The loss: 37.51389291882515
+The precision: 0.7655999992344
+The recall: 0.7687143827739494
+The F1: 0.7671535301860192
+
+
+the epoch: 49
+The accuracy: 0.7677
+The loss: 36.48539846390486
+The precision: 0.7676999992323001
+The recall: 0.7681742730563923
+The F1: 0.767936562917482
+
+
+the epoch: 50
+The accuracy: 0.7754
+The loss: 36.133134342730045
+The precision: 0.7753999992246
+The recall: 0.7741930418943138
+The F1: 0.774795550518608
+
+
+the epoch: 51
+The accuracy: 0.7717
+The loss: 36.931859858334064
+The precision: 0.7716999992283
+The recall: 0.7752111431836813
+The F1: 0.7734510864512857
+
+
+the epoch: 52
+The accuracy: 0.7683
+The loss: 37.388958759605885
+The precision: 0.7682999992317001
+The recall: 0.7718407621537203
+The F1: 0.7700658106124799
+
+
+the epoch: 53
+The accuracy: 0.7695
+The loss: 37.16473264992237
+The precision: 0.7694999992305
+The recall: 0.773037909554785
+The F1: 0.771264397182678
+
+
+the epoch: 54
+The accuracy: 0.7673
+The loss: 37.464229583740234
+The precision: 0.7672999992327
+The recall: 0.766836427996392
+The F1: 0.7670676435760713
+
+
+the epoch: 55
+The accuracy: 0.7623
+The loss: 38.12516812235117
+The precision: 0.7622999992377
+The recall: 0.7694943418597917
+The F1: 0.7658797758098159
+
+
+the epoch: 56
+The accuracy: 0.7708
+The loss: 36.95759506523609
+The precision: 0.7707999992292
+The recall: 0.7721846483245614
+The F1: 0.7714912024969224
+
+
+the epoch: 57
+The accuracy: 0.7724
+The loss: 36.690288342535496
+The precision: 0.7723999992275999
+The recall: 0.7752257986687148
+The F1: 0.7738098191461366
+
+
+the epoch: 58
+The accuracy: 0.7694
+The loss: 37.47230385243893
+The precision: 0.7693999992306
+The recall: 0.7692438690809827
+The F1: 0.7693214262346578
+
+
+the epoch: 59
+The accuracy: 0.7722
+The loss: 36.49444545060396
+The precision: 0.7721999992278
+The recall: 0.7706117501141191
+The F1: 0.7714045571594864
+
+
+the epoch: 60
+The accuracy: 0.7694
+The loss: 37.226951994001865
+The precision: 0.7693999992306
+The recall: 0.7690855125716787
+The F1: 0.7692422237588822
+
+
+the epoch: 61
+The accuracy: 0.7658
+The loss: 37.21584431827068
+The precision: 0.7657999992342001
+The recall: 0.7648470622470128
+The F1: 0.7653227341055
+
+
+the epoch: 62
+The accuracy: 0.765
+The loss: 37.86151587218046
+The precision: 0.764999999235
+The recall: 0.7766452608938094
+The F1: 0.7707781471736439
+
+
+the epoch: 63
+The accuracy: 0.7666
+The loss: 37.58511386811733
+The precision: 0.7665999992333999
+The recall: 0.7640102815305918
+The F1: 0.7653024495459343
+
+
+the epoch: 64
+The accuracy: 0.766
+The loss: 38.03496676683426
+The precision: 0.765999999234
+The recall: 0.7654527282546268
+The F1: 0.7657257659599275
+
+
+the epoch: 65
+The accuracy: 0.7678
+The loss: 37.37505418807268
+The precision: 0.7677999992322
+The recall: 0.7659948857216134
+The F1: 0.7668958802645818
+
+
+the epoch: 66
+The accuracy: 0.7663
+The loss: 37.40256177634001
+The precision: 0.7662999992337001
+The recall: 0.7664105545535451
+The F1: 0.766354772906741
+
+
+the epoch: 67
+The accuracy: 0.7657
+The loss: 37.866117261350155
+The precision: 0.7656999992343
+The recall: 0.7674058202230827
+The F1: 0.7665514607327671
+
+
+the epoch: 68
+The accuracy: 0.7634
+The loss: 37.86844204366207
+The precision: 0.7633999992366
+The recall: 0.7653682341728395
+The F1: 0.7643823496895027
+
+
+the epoch: 69
+The accuracy: 0.7593
+The loss: 38.979622930288315
+The precision: 0.7592999992407
+The recall: 0.767759740930342
+The F1: 0.7635059370855845
+
+
+the epoch: 70
+The accuracy: 0.763
+The loss: 38.830051586031914
+The precision: 0.7629999992369999
+The recall: 0.7639097650540342
+The F1: 0.7634541111169603
+
+
+the epoch: 71
+The accuracy: 0.7641
+The loss: 38.30136561393738
+The precision: 0.7640999992358999
+The recall: 0.7684127129029721
+The F1: 0.7662497877719628
+
+
+the epoch: 72
+The accuracy: 0.7651
+The loss: 38.108863942325115
+The precision: 0.7650999992348999
+The recall: 0.7645804457096823
+The F1: 0.7648396342399122
+
+
+the epoch: 73
+The accuracy: 0.7622
+The loss: 38.68076276779175
+The precision: 0.7621999992378001
+The recall: 0.7668113458054431
+The F1: 0.7644982188445517
+
+
+the epoch: 74
+The accuracy: 0.7563
+The loss: 39.3526671603322
+The precision: 0.7562999992437001
+The recall: 0.7626518547147899
+The F1: 0.7594621460973464
+
+
+the epoch: 75
+The accuracy: 0.7683
+The loss: 37.83284568786621
+The precision: 0.7682999992317001
+The recall: 0.7710430565830657
+The F1: 0.7696685838915034
+
+
+the epoch: 76
+The accuracy: 0.7675
+The loss: 37.923343278467655
+The precision: 0.7674999992325
+The recall: 0.7681650164375003
+The F1: 0.7678318638431171
+
+
+the epoch: 77
+The accuracy: 0.7619
+The loss: 38.734801553189754
+The precision: 0.7618999992381001
+The recall: 0.7633597469819353
+The F1: 0.7626286745860176
+
+
+the epoch: 78
+The accuracy: 0.7598
+The loss: 38.25460285693407
+The precision: 0.7597999992402
+The recall: 0.7561940121465351
+The F1: 0.7579922170440574
+
+
+the epoch: 79
+The accuracy: 0.7659
+The loss: 37.85823394358158
+The precision: 0.7658999992341
+The recall: 0.7639432772062785
+The F1: 0.7649198868640371
+
+
+the epoch: 80
+The accuracy: 0.7659
+The loss: 38.405527099967
+The precision: 0.7658999992341
+The recall: 0.7655320036769728
+The F1: 0.7657154572421331
+
+
+the epoch: 81
+The accuracy: 0.7625
+The loss: 38.37099847942591
+The precision: 0.7624999992374999
+The recall: 0.7643742908673501
+The F1: 0.7634354946742191
+
+
+the epoch: 82
+The accuracy: 0.7567
+The loss: 39.83142940700054
+The precision: 0.7566999992433001
+The recall: 0.7682540242385774
+The F1: 0.7624327414360655
+
+
+the epoch: 83
+The accuracy: 0.7693
+The loss: 37.50785966217518
+The precision: 0.7692999992306999
+The recall: 0.7696857567422498
+The F1: 0.7694923296404261
+
+
+the epoch: 84
+The accuracy: 0.7532
+The loss: 39.78409422188997
+The precision: 0.7531999992468
+The recall: 0.7546511765169137
+The F1: 0.7539243895659001
+
+
+the epoch: 85
+The accuracy: 0.7717
+The loss: 37.44350352883339
+The precision: 0.7716999992283
+The recall: 0.7702588188311632
+The F1: 0.7709782355361968
+
+
+the epoch: 86
+The accuracy: 0.7683
+The loss: 37.95461580902338
+The precision: 0.7682999992317001
+The recall: 0.7661073233767313
+The F1: 0.7672015946330976
+
+
+the epoch: 87
+The accuracy: 0.7633
+The loss: 38.55002012103796
+The precision: 0.7632999992367001
+The recall: 0.7688894123105662
+The F1: 0.7660840107165192
+
+
+the epoch: 88
+The accuracy: 0.7662
+The loss: 38.19226489961147
+The precision: 0.7661999992338001
+The recall: 0.7690741506595764
+The F1: 0.7676338846323759
+
+
+the epoch: 89
+The accuracy: 0.7716
+The loss: 37.47128017246723
+The precision: 0.7715999992284
+The recall: 0.7704629197002933
+The F1: 0.7710305402376086
+
+
+the epoch: 90
+The accuracy: 0.7619
+The loss: 38.864648170769215
+The precision: 0.7618999992381
+The recall: 0.7664033859161683
+The F1: 0.76414455761267
+
+
+the epoch: 91
+The accuracy: 0.7582
+The loss: 39.54848628491163
+The precision: 0.7581999992418
+The recall: 0.7595426456828014
+The F1: 0.758870228587811
+
+
+the epoch: 92
+The accuracy: 0.7601
+The loss: 38.76870622485876
+The precision: 0.7600999992399
+The recall: 0.7591512096639377
+The F1: 0.7596248081875283
+
+
+the epoch: 93
+The accuracy: 0.7625
+The loss: 38.36327552050352
+The precision: 0.7624999992375
+The recall: 0.7607390557310398
+The F1: 0.7616180096141639
+
+
+the epoch: 94
+The accuracy: 0.7621
+The loss: 38.87783559411764
+The precision: 0.7620999992379
+The recall: 0.7634540249278237
+The F1: 0.7627759111918615
+
+
+the epoch: 95
+The accuracy: 0.7662
+The loss: 37.61397437006235
+The precision: 0.7661999992338
+The recall: 0.7637154134457609
+The F1: 0.7649551888552019
+
+
+the epoch: 96
+The accuracy: 0.7652
+The loss: 38.02286598086357
+The precision: 0.7651999992348001
+The recall: 0.7654951170599672
+The F1: 0.7653470296983892
+
+
+the epoch: 97
+The accuracy: 0.7616
+The loss: 38.6593474149704
+The precision: 0.7615999992384
+The recall: 0.7610378217417155
+The F1: 0.7613183067088679
+
+
+the epoch: 98
+The accuracy: 0.7619
+The loss: 38.77687497437
+The precision: 0.7618999992381
+The recall: 0.7652706031357479
+The F1: 0.7635810815755792
+
+
+the epoch: 99
+The accuracy: 0.7655
+The loss: 38.68515905737877
+The precision: 0.7654999992345001
+The recall: 0.7684485932704683
+The F1: 0.7669709623243581
+
+
+the epoch: 100
+The accuracy: 0.7609
+The loss: 39.11514922603965
+The precision: 0.7608999992391001
+The recall: 0.767870837701728
+The F1: 0.7643690257823432
+
+
+the epoch: 101
+The accuracy: 0.7653
+The loss: 38.2611583545804
+The precision: 0.7652999992346999
+The recall: 0.7642318824074038
+The F1: 0.7647650678730198
+
+
+the epoch: 102
+The accuracy: 0.7654
+The loss: 38.74644358456135
+The precision: 0.7653999992346
+The recall: 0.7638580459874269
+The F1: 0.7646277452349293
+
+
+the epoch: 103
+The accuracy: 0.7591
+The loss: 39.702507853507996
+The precision: 0.7590999992409
+The recall: 0.7603094028511226
+The F1: 0.7597037197224366
+
+
+the epoch: 104
+The accuracy: 0.7699
+The loss: 37.82104833424091
+The precision: 0.7698999992301
+The recall: 0.768251942137484
+The F1: 0.769074587777058
+
+
+the epoch: 105
+The accuracy: 0.768
+The loss: 38.69005719572306
+The precision: 0.7679999992319999
+The recall: 0.7705045095313892
+The F1: 0.7692497158544341
+
+
+the epoch: 106
+The accuracy: 0.7683
+The loss: 37.939840503036976
+The precision: 0.7682999992316999
+The recall: 0.7701344604798906
+The F1: 0.7692156361319572
+
+
+the epoch: 107
+The accuracy: 0.7669
+The loss: 38.41693830490112
+The precision: 0.7668999992331
+The recall: 0.7677354693312989
+The F1: 0.7673170068637524
+
+
+the epoch: 108
+The accuracy: 0.7639
+The loss: 39.00511548668146
+The precision: 0.7638999992361
+The recall: 0.7691570457654551
+The F1: 0.7665190089682169
+
+
+the epoch: 109
+The accuracy: 0.7607
+The loss: 39.72060487419367
+The precision: 0.7606999992393001
+The recall: 0.7607771735891448
+The F1: 0.7607380844572833
+
+
+the epoch: 110
+The accuracy: 0.7676
+The loss: 38.418163143098354
+The precision: 0.7675999992323999
+The recall: 0.7683805056308116
+The F1: 0.7679895541254295
+
+
+the epoch: 111
+The accuracy: 0.762
+The loss: 39.02991630882025
+The precision: 0.761999999238
+The recall: 0.7688585957513873
+The F1: 0.765413433464809
+
+
+the epoch: 112
+The accuracy: 0.7621
+The loss: 39.07827898859978
+The precision: 0.7620999992378998
+The recall: 0.7615837061535649
+The F1: 0.7618412652243717
+
+
+the epoch: 113
+The accuracy: 0.7598
+The loss: 39.11961703002453
+The precision: 0.7597999992402
+The recall: 0.757010990269347
+The F1: 0.758402430636711
+
+
+the epoch: 114
+The accuracy: 0.7667
+The loss: 38.41518796235323
+The precision: 0.7666999992333
+The recall: 0.767374310165982
+The F1: 0.7670365065014948
+
+
+the epoch: 115
+The accuracy: 0.7608
+The loss: 39.30091381072998
+The precision: 0.7607999992392
+The recall: 0.7605523934716538
+The F1: 0.7606756762063885
+
+
+the epoch: 116
+The accuracy: 0.7661
+The loss: 38.92206225544214
+The precision: 0.7660999992338999
+The recall: 0.7668278261875068
+The F1: 0.7664632399267275
+
+
+the epoch: 117
+The accuracy: 0.7561
+The loss: 40.71225534379482
+The precision: 0.7560999992438999
+The recall: 0.7644953309096996
+The F1: 0.7602739894346582
+
+
+the epoch: 118
+The accuracy: 0.7656
+The loss: 38.763391971588135
+The precision: 0.7655999992344
+The recall: 0.7663802701643114
+The F1: 0.7659894359953193
+
+
+the epoch: 119
+The accuracy: 0.7691
+The loss: 38.63010974228382
+The precision: 0.7690999992309001
+The recall: 0.7692367748623237
+The F1: 0.7691678809664864
+
+
+the epoch: 120
+The accuracy: 0.7673
+The loss: 38.35308475792408
+The precision: 0.7672999992327
+The recall: 0.7656485301789466
+The F1: 0.7664728751302101
+
+
+the epoch: 121
+The accuracy: 0.7663
+The loss: 38.32265381515026
+The precision: 0.7662999992337
+The recall: 0.7702297195325338
+The F1: 0.7682593341986417
+
+
+the epoch: 122
+The accuracy: 0.7705
+The loss: 38.539070177823305
+The precision: 0.7704999992294999
+The recall: 0.7693853241149088
+The F1: 0.7699417582334595
+
+
+the epoch: 123
+The accuracy: 0.7679
+The loss: 38.590116646140814
+The precision: 0.7678999992321001
+The recall: 0.7680383757382439
+The F1: 0.7679686812521599
+
+
+the epoch: 124
+The accuracy: 0.7642
+The loss: 38.945308059453964
+The precision: 0.7641999992358001
+The recall: 0.7631453110243782
+The F1: 0.7636717909801201
+
+
+the epoch: 125
+The accuracy: 0.7644
+The loss: 38.76076013594866
+The precision: 0.7643999992356
+The recall: 0.7668097850480823
+The F1: 0.7656024959082457
+
+
+the epoch: 126
+The accuracy: 0.7646
+The loss: 39.20890826359391
+The precision: 0.7645999992354
+The recall: 0.764744453639293
+The F1: 0.7646717196154496
+
+
+the epoch: 127
+The accuracy: 0.7625
+The loss: 39.091053146868944
+The precision: 0.7624999992375001
+The recall: 0.7652796954514056
+The F1: 0.7638868186078127
+
+
+the epoch: 128
+The accuracy: 0.7602
+The loss: 38.93213743343949
+The precision: 0.7601999992398
+The recall: 0.7595356070303797
+The F1: 0.7598671579072899
+
+
+the epoch: 129
+The accuracy: 0.7623
+The loss: 39.3752177208662
+The precision: 0.7622999992377
+The recall: 0.7633035903247667
+The F1: 0.762800964684537
+
+
+the epoch: 130
+The accuracy: 0.7632
+The loss: 39.222074180841446
+The precision: 0.7631999992367999
+The recall: 0.7661904089806486
+The F1: 0.7646917805440344
+
+
+the epoch: 131
+The accuracy: 0.7564
+The loss: 39.90499676018953
+The precision: 0.7563999992435999
+The recall: 0.7570642103871027
+The F1: 0.7567314590652409
+
+
+the epoch: 132
+The accuracy: 0.7606
+The loss: 39.103641495108604
+The precision: 0.7605999992393999
+The recall: 0.7586191006481031
+The F1: 0.7596077585053914
+
+
+the epoch: 133
+The accuracy: 0.7627
+The loss: 38.987921215593815
+The precision: 0.7626999992373
+The recall: 0.765204239525242
+The F1: 0.7639495671537307
+
+
+the epoch: 134
+The accuracy: 0.76
+The loss: 39.06375025212765
+The precision: 0.75999999924
+The recall: 0.7631599778336259
+The F1: 0.7615762106614399
+
+
+the epoch: 135
+The accuracy: 0.7618
+The loss: 38.75620919466019
+The precision: 0.7617999992382
+The recall: 0.7609454854163635
+The F1: 0.7613720025654832
+
+
+the epoch: 136
+The accuracy: 0.7653
+The loss: 38.39187864214182
+The precision: 0.7652999992346999
+The recall: 0.7647655575978677
+The F1: 0.7650321850782321
+
+
+the epoch: 137
+The accuracy: 0.7631
+The loss: 38.63586810231209
+The precision: 0.7630999992369001
+The recall: 0.7657639673807844
+The F1: 0.7644291623958035
+
+
+the epoch: 138
+The accuracy: 0.7678
+The loss: 38.72239662706852
+The precision: 0.7677999992322
+The recall: 0.7686487454512839
+The F1: 0.7682236379152185
+
+
+the epoch: 139
+The accuracy: 0.757
+The loss: 39.73915506899357
+The precision: 0.756999999243
+The recall: 0.7572656875102188
+The F1: 0.7571323200685437
+
+
+the epoch: 140
+The accuracy: 0.7649
+The loss: 38.61746724694967
+The precision: 0.7648999992351
+The recall: 0.7639287303032195
+The F1: 0.7644135562448291
+
+
+the epoch: 141
+The accuracy: 0.7622
+The loss: 39.350974686443806
+The precision: 0.7621999992378
+The recall: 0.7643361456876663
+The F1: 0.7632660778641017
+
+
+the epoch: 142
+The accuracy: 0.7617
+The loss: 39.20973148941994
+The precision: 0.7616999992383
+The recall: 0.7613194974227653
+The F1: 0.7615092007997766
+
+
+the epoch: 143
+The accuracy: 0.7653
+The loss: 38.97307903319597
+The precision: 0.7652999992347
+The recall: 0.7700794186839178
+The F1: 0.7676817701353521
+
+
+the epoch: 144
+The accuracy: 0.7648
+The loss: 38.87592315673828
+The precision: 0.7647999992351999
+The recall: 0.7644640159422024
+The F1: 0.7646314706808492
+
+
+the epoch: 145
+The accuracy: 0.763
+The loss: 39.13860775157809
+The precision: 0.7629999992369999
+The recall: 0.7603106039544144
+The F1: 0.7616524275423715
+
+
+the epoch: 146
+The accuracy: 0.7563
+The loss: 40.5805761218071
+The precision: 0.7562999992437002
+The recall: 0.757922288263586
+The F1: 0.757109774720428
+
+
+the epoch: 147
+The accuracy: 0.7664
+The loss: 39.08498376607895
+The precision: 0.7663999992336
+The recall: 0.7718178448938355
+The F1: 0.7690988808171293
+
+
+the epoch: 148
+The accuracy: 0.7644
+The loss: 39.144194439053535
+The precision: 0.7643999992356
+The recall: 0.7700730725923917
+The F1: 0.7672255490113813
+
+
+the epoch: 149
+The accuracy: 0.7604
+The loss: 39.449117600917816
+The precision: 0.7603999992396
+The recall: 0.7594317573793149
+The F1: 0.7599150698902264
+
+
+the epoch: 150
+The accuracy: 0.7676
+The loss: 38.506352465599775
+The precision: 0.7675999992324
+The recall: 0.7664788715099509
+The F1: 0.7670385257033369
+
+
+the epoch: 151
+The accuracy: 0.7615
+The loss: 39.38172398507595
+The precision: 0.7614999992385
+The recall: 0.7634088128211107
+The F1: 0.7624527113465973
+
+
+the epoch: 152
+The accuracy: 0.7672
+The loss: 38.71037017181516
+The precision: 0.7671999992328
+The recall: 0.7699034947836786
+The F1: 0.7685488695227718
+
+
+the epoch: 153
+The accuracy: 0.7649
+The loss: 39.62761754542589
+The precision: 0.7648999992350999
+The recall: 0.7652723907039245
+The F1: 0.765085649656214
+
+
+the epoch: 154
+The accuracy: 0.7649
+The loss: 38.60814576596022
+The precision: 0.7648999992351001
+The recall: 0.7629792640482871
+The F1: 0.7639379243407205
+
+
+the epoch: 155
+The accuracy: 0.7628
+The loss: 39.49074921756983
+The precision: 0.7627999992372001
+The recall: 0.7658410029225861
+The F1: 0.7643169762701596
+
+
+the epoch: 156
+The accuracy: 0.7668
+The loss: 38.70982701331377
+The precision: 0.7667999992332
+The recall: 0.7659197303333608
+The F1: 0.7663591120065283
+
+
+the epoch: 157
+The accuracy: 0.758
+The loss: 39.7905000410974
+The precision: 0.757999999242
+The recall: 0.7608108463252174
+The F1: 0.7594023217832452
+
+
+the epoch: 158
+The accuracy: 0.7677
+The loss: 38.58780961111188
+The precision: 0.7676999992323
+The recall: 0.7656080208614593
+The F1: 0.7666520829462604
+
+
+the epoch: 159
+The accuracy: 0.7625
+The loss: 39.423454873263836
+The precision: 0.7624999992375001
+The recall: 0.7689228637974365
+The F1: 0.7656974626179851
+
+
+the epoch: 160
+The accuracy: 0.762
+The loss: 38.88765946403146
+The precision: 0.761999999238
+The recall: 0.7624093173028591
+The F1: 0.7622041033179419
+
+
+the epoch: 161
+The accuracy: 0.7659
+The loss: 38.40878847241402
+The precision: 0.7658999992341
+The recall: 0.7633641237515938
+The F1: 0.7646294589589677
+
+
+the epoch: 162
+The accuracy: 0.7577
+The loss: 40.31792101264
+The precision: 0.7576999992422999
+The recall: 0.7553885343245568
+The F1: 0.7565420012338864
+
+
+the epoch: 163
+The accuracy: 0.767
+The loss: 38.92241943255067
+The precision: 0.7669999992329999
+The recall: 0.7677428990555863
+The F1: 0.7673707693425859
+
+
+the epoch: 164
+The accuracy: 0.7651
+The loss: 38.947186291217804
+The precision: 0.7650999992348999
+The recall: 0.7649125101355955
+The F1: 0.7650057431980412
+
+
+the epoch: 165
+The accuracy: 0.7648
+The loss: 38.946986984461546
+The precision: 0.7647999992352
+The recall: 0.7671308507791514
+The F1: 0.7659631517990791
+
+
+the epoch: 166
+The accuracy: 0.7705
+The loss: 38.407648250460625
+The precision: 0.7704999992295001
+The recall: 0.774763024126063
+The F1: 0.77262513132983
+
+
+the epoch: 167
+The accuracy: 0.7669
+The loss: 39.02580916136503
+The precision: 0.7668999992330999
+The recall: 0.767252990856647
+The F1: 0.767075954435493
+
+
+the epoch: 168
+The accuracy: 0.7678
+The loss: 38.7530617788434
+The precision: 0.7677999992322
+The recall: 0.7680347520767387
+The F1: 0.767916857713782
+
+
+the epoch: 169
+The accuracy: 0.7649
+The loss: 38.96459690108895
+The precision: 0.7648999992351
+The recall: 0.7641198245991662
+The F1: 0.7645092128775082
+
+
+the epoch: 170
+The accuracy: 0.7588
+The loss: 40.042084604501724
+The precision: 0.7587999992412
+The recall: 0.7594970358038986
+The F1: 0.7591478575213644
+
+
+the epoch: 171
+The accuracy: 0.7605
+The loss: 39.599631279706955
+The precision: 0.7604999992395001
+The recall: 0.7597486773967277
+The F1: 0.7601236526632442
+
+
+the epoch: 172
+The accuracy: 0.7597
+The loss: 40.18944335356355
+The precision: 0.7596999992403
+The recall: 0.7691451497029724
+The F1: 0.7643928985907523
+
+
+the epoch: 173
+The accuracy: 0.7717
+The loss: 38.636567026376724
+The precision: 0.7716999992283
+The recall: 0.7751474065688901
+The F1: 0.7734193613403897
+
+
+the epoch: 174
+The accuracy: 0.7584
+The loss: 39.52693484723568
+The precision: 0.7583999992416
+The recall: 0.7609676264622729
+The F1: 0.7596811432966248
+
+
+the epoch: 175
+The accuracy: 0.7711
+The loss: 38.44904715567827
+The precision: 0.7710999992289002
+The recall: 0.7708572985690874
+The F1: 0.7709781297990576
+
+
+the epoch: 176
+The accuracy: 0.7616
+The loss: 39.741281017661095
+The precision: 0.7615999992384002
+The recall: 0.7664266968528577
+The F1: 0.7640052248170314
+
+
+the epoch: 177
+The accuracy: 0.7671
+The loss: 39.27837693691254
+The precision: 0.7670999992329001
+The recall: 0.764837205760729
+The F1: 0.765966431334988
+
+
+the epoch: 178
+The accuracy: 0.7746
+The loss: 38.25652323663235
+The precision: 0.7745999992253999
+The recall: 0.7729013740573976
+The F1: 0.7737492543887213
+
+
+the epoch: 179
+The accuracy: 0.7652
+The loss: 39.371488235890865
+The precision: 0.7651999992348001
+The recall: 0.764703918363295
+The F1: 0.7649513783707712
+
+
+the epoch: 180
+The accuracy: 0.7732
+The loss: 38.1930905431509
+The precision: 0.7731999992268002
+The recall: 0.7743666023400387
+The F1: 0.7737823610734442
+
+
+the epoch: 181
+The accuracy: 0.7636
+The loss: 38.98812410235405
+The precision: 0.7635999992364
+The recall: 0.7617348125655365
+The F1: 0.7626657655224726
+
+
+the epoch: 182
+The accuracy: 0.7667
+The loss: 38.745423167943954
+The precision: 0.7666999992333
+The recall: 0.76606754161885
+The F1: 0.766383139942697
+
+
+the epoch: 183
+The accuracy: 0.767
+The loss: 39.06813911348581
+The precision: 0.766999999233
+The recall: 0.7681186888731186
+The F1: 0.7675584364413531
+
+
+the epoch: 184
+The accuracy: 0.7703
+The loss: 37.80073869973421
+The precision: 0.7702999992297
+The recall: 0.7724433242622833
+The F1: 0.7713696728922895
+
+
+the epoch: 185
+The accuracy: 0.7637
+The loss: 39.21262677386403
+The precision: 0.7636999992363
+The recall: 0.7655323826107663
+The F1: 0.7646145931094681
+
+
+the epoch: 186
+The accuracy: 0.7658
+The loss: 39.06792686879635
+The precision: 0.7657999992342
+The recall: 0.7653128382445328
+The F1: 0.7655558412386528
+
+
+the epoch: 187
+The accuracy: 0.767
+The loss: 39.480431243777275
+The precision: 0.7669999992329999
+The recall: 0.7664843803513094
+The F1: 0.766741603106675
+
+
+the epoch: 188
+The accuracy: 0.7662
+The loss: 39.0145279020071
+The precision: 0.7661999992338
+The recall: 0.7645191974075611
+The F1: 0.7653581755217964
+
+
+the epoch: 189
+The accuracy: 0.7654
+The loss: 38.8588378764689
+The precision: 0.7653999992346001
+The recall: 0.7638224562189436
+The F1: 0.7646099140324235
+
+
+the epoch: 190
+The accuracy: 0.7614
+The loss: 39.82838637009263
+The precision: 0.7613999992386
+The recall: 0.7630117187135452
+The F1: 0.7622045069631515
+
+
+the epoch: 191
+The accuracy: 0.7673
+The loss: 39.10776795819402
+The precision: 0.7672999992326999
+The recall: 0.7699616140903627
+The F1: 0.7686280025032863
+
+
+the epoch: 192
+The accuracy: 0.7628
+The loss: 39.45204168185592
+The precision: 0.7627999992372
+The recall: 0.7639739224017859
+The F1: 0.7633860095104699
+
+
+the epoch: 193
+The accuracy: 0.7694
+The loss: 38.008591286838055
+The precision: 0.7693999992306
+The recall: 0.7693879432423499
+The F1: 0.7693934711895721
+
+
+the epoch: 194
+The accuracy: 0.7705
+The loss: 38.16858544200659
+The precision: 0.7704999992295
+The recall: 0.7736480013040038
+The F1: 0.7720702914067074
+
+
+the epoch: 195
+The accuracy: 0.7711
+The loss: 38.660133738070726
+The precision: 0.7710999992288999
+The recall: 0.7732559525866824
+The F1: 0.772175971030996
+
+
+the epoch: 196
+The accuracy: 0.7673
+The loss: 38.8868825212121
+The precision: 0.7672999992327001
+The recall: 0.7689158210446838
+The F1: 0.768106560363096
+
+
+the epoch: 197
+The accuracy: 0.7654
+The loss: 38.94872700423002
+The precision: 0.7653999992345999
+The recall: 0.762978787240461
+The F1: 0.7641869754332739
+
+
+the epoch: 198
+The accuracy: 0.7621
+The loss: 39.12844428420067
+The precision: 0.7620999992379001
+The recall: 0.7624890271181292
+The F1: 0.7622939635444448
+
+
+the epoch: 199
+The accuracy: 0.7652
+The loss: 39.12816406786442
+The precision: 0.7651999992348
+The recall: 0.765185782049769
+The F1: 0.7651923905765728
+
+
+the epoch: 200
+The accuracy: 0.7623
+The loss: 39.68951649963856
+The precision: 0.7622999992377
+The recall: 0.7696219434863123
+The F1: 0.7659429734627697
+
+
+the epoch: 201
+The accuracy: 0.7641
+The loss: 39.23468109220266
+The precision: 0.7640999992359
+The recall: 0.7637100162425285
+The F1: 0.763904457966784
+
+
+the epoch: 202
+The accuracy: 0.7592
+The loss: 39.64454311132431
+The precision: 0.7591999992408001
+The recall: 0.7593578813470723
+The F1: 0.759278432086892
+
+
+the epoch: 203
+The accuracy: 0.772
+The loss: 38.25924254953861
+The precision: 0.7719999992280001
+The recall: 0.7708866404573687
+The F1: 0.7714424181391771
+
+
+the epoch: 204
+The accuracy: 0.7634
+The loss: 39.51202315092087
+The precision: 0.7633999992366001
+The recall: 0.762389902477109
+The F1: 0.7628941165074813
+
+
+the epoch: 205
+The accuracy: 0.7727
+The loss: 38.22750048339367
+The precision: 0.7726999992273
+The recall: 0.7726719494164958
+The F1: 0.7726854740676578
+
+
+the epoch: 206
+The accuracy: 0.7666
+The loss: 39.61101704090834
+The precision: 0.7665999992334
+The recall: 0.7670809486405348
+The F1: 0.7668398985265042
+
+
+the epoch: 207
+The accuracy: 0.7652
+The loss: 39.44044630974531
+The precision: 0.7651999992348
+The recall: 0.7649827486103383
+The F1: 0.7650908585006195
+
+
+the epoch: 208
+The accuracy: 0.7691
+The loss: 38.47183598205447
+The precision: 0.7690999992309
+The recall: 0.7666901881589977
+The F1: 0.7678927030771194
+
+
+the epoch: 209
+The accuracy: 0.7693
+The loss: 38.73810402676463
+The precision: 0.7692999992306999
+The recall: 0.7680145595785046
+The F1: 0.7686562419892065
+
+
+the epoch: 210
+The accuracy: 0.768
+The loss: 39.0779828093946
+The precision: 0.7679999992319999
+The recall: 0.76746541760321
+The F1: 0.7677321153590677
+
+
+the epoch: 211
+The accuracy: 0.7665
+The loss: 39.16573306918144
+The precision: 0.7664999992335
+The recall: 0.7649035920892716
+The F1: 0.7657004635773028
+
+
+the epoch: 212
+The accuracy: 0.7663
+The loss: 39.24163129925728
+The precision: 0.7662999992337001
+The recall: 0.764665939140654
+The F1: 0.765481597139806
+
+
+the epoch: 213
+The accuracy: 0.7672
+The loss: 39.06073524057865
+The precision: 0.7671999992328
+The recall: 0.7663117532082303
+The F1: 0.7667551189745292
+
+
+the epoch: 214
+The accuracy: 0.7587
+The loss: 39.351373344659805
+The precision: 0.7586999992413
+The recall: 0.7614992563926603
+The F1: 0.7600965505777085
+
+
+the epoch: 215
+The accuracy: 0.7718
+The loss: 38.13296861946583
+The precision: 0.7717999992282
+The recall: 0.7705718436328601
+The F1: 0.7711849324549969
+
+
+the epoch: 216
+The accuracy: 0.7735
+The loss: 38.04221223294735
+The precision: 0.7734999992265
+The recall: 0.7714299349913853
+The F1: 0.7724630802621774
+
+
+the epoch: 217
+The accuracy: 0.7681
+The loss: 38.87154084444046
+The precision: 0.7680999992319
+The recall: 0.7668133792758987
+The F1: 0.7674556500088658
+
+
+the epoch: 218
+The accuracy: 0.7656
+The loss: 39.210079066455364
+The precision: 0.7655999992344001
+The recall: 0.7653526467481861
+The F1: 0.7654758030095477
+
+
+the epoch: 219
+The accuracy: 0.7702
+The loss: 38.34596326202154
+The precision: 0.7701999992298
+The recall: 0.7690430644592676
+The F1: 0.7696205970541407
+
+
+the epoch: 220
+The accuracy: 0.7693
+The loss: 38.67257346212864
+The precision: 0.7692999992307001
+The recall: 0.7678482716765588
+The F1: 0.7685729499275288
+
+
+the epoch: 221
+The accuracy: 0.7678
+The loss: 39.0126992687583
+The precision: 0.7677999992322001
+The recall: 0.768602488695022
+The F1: 0.7682005343870438
+
+
+the epoch: 222
+The accuracy: 0.7664
+The loss: 38.868279188871384
+The precision: 0.7663999992335999
+The recall: 0.7659567657774443
+The F1: 0.7661778184033584
+
+
+the epoch: 223
+The accuracy: 0.7704
+The loss: 38.263348419219255
+The precision: 0.7703999992296
+The recall: 0.7703022065764398
+The F1: 0.7703505997997606
+
+
+the epoch: 224
+The accuracy: 0.7675
+The loss: 39.44534967839718
+The precision: 0.7674999992325
+The recall: 0.7656385772102056
+The F1: 0.7665676582228196
+
+
+the epoch: 225
+The accuracy: 0.7628
+The loss: 39.00044047832489
+The precision: 0.7627999992372
+The recall: 0.7676962125806263
+The F1: 0.7652397741716453
+
+
+the epoch: 226
+The accuracy: 0.7662
+The loss: 39.51299723237753
+The precision: 0.7661999992338
+The recall: 0.7654679457287384
+The F1: 0.7658332975409414
+
+
+the epoch: 227
+The accuracy: 0.766
+The loss: 39.60294799506664
+The precision: 0.7659999992340001
+The recall: 0.7672363784764424
+The F1: 0.7666171903568632
+
+

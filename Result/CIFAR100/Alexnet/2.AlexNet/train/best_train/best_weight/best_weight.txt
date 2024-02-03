@@ -1,0 +1,2100 @@
+best accuracy: 0.0631. 	The epoch: 0
+best precision: 0.06309999936900001. 	The epoch: 0
+best recall: 0.03179497544801473. 	The epoch: 0
+best F1: 0.04228341475127309. 	The epoch: 0
+best loss: 817.133533000946. 	The epoch: 0
+
+
+best accuracy: 0.1067. 	The epoch: 1
+best precision: 0.10669999893299996. 	The epoch: 1
+best recall: 0.0885746619673174. 	The epoch: 1
+best F1: 0.09679564051997266. 	The epoch: 1
+best loss: 756.8355412483215. 	The epoch: 1
+
+
+best accuracy: 0.1428. 	The epoch: 2
+best precision: 0.142799998572. 	The epoch: 2
+best recall: 0.1347745521480531. 	The epoch: 2
+best F1: 0.13867075687580385. 	The epoch: 2
+best loss: 725.8566181659698. 	The epoch: 2
+
+
+best accuracy: 0.1618. 	The epoch: 3
+best precision: 0.16179999838200002. 	The epoch: 3
+best recall: 0.1646833781259066. 	The epoch: 3
+best F1: 0.16322845582577944. 	The epoch: 3
+best loss: 701.0716526508331. 	The epoch: 3
+
+
+best accuracy: 0.1897. 	The epoch: 4
+best precision: 0.18969999810300003. 	The epoch: 4
+best recall: 0.18057862206808514. 	The epoch: 4
+best F1: 0.1850264632330047. 	The epoch: 4
+best loss: 673.8837225437164. 	The epoch: 4
+
+
+best accuracy: 0.2104. 	The epoch: 5
+best precision: 0.21039999789599992. 	The epoch: 5
+best recall: 0.21845499040228977. 	The epoch: 5
+best F1: 0.2143513476558618. 	The epoch: 5
+best loss: 657.3866693973541. 	The epoch: 5
+
+
+best accuracy: 0.2117. 	The epoch: 6
+best precision: 0.21169999788300004. 	The epoch: 6
+best recall: 0.2221246214317576. 	The epoch: 6
+best F1: 0.21678656028263588. 	The epoch: 6
+best loss: 643.8278939723969. 	The epoch: 6
+
+
+best accuracy: 0.231. 	The epoch: 7
+best precision: 0.2309999976900001. 	The epoch: 7
+best recall: 0.22856445125343466. 	The epoch: 7
+best F1: 0.2297752706733974. 	The epoch: 7
+best loss: 633.4692814350128. 	The epoch: 7
+
+
+best accuracy: 0.2357. 	The epoch: 8
+best precision: 0.235699997643. 	The epoch: 8
+best recall: 0.23120958948312023. 	The epoch: 8
+best F1: 0.23343270081597076. 	The epoch: 8
+best loss: 625.2033658027649. 	The epoch: 8
+
+
+best accuracy: 0.245. 	The epoch: 9
+best precision: 0.24499999755. 	The epoch: 9
+best recall: 0.24147465754919176. 	The epoch: 9
+best F1: 0.2432240540212692. 	The epoch: 9
+best loss: 613.7701020240784. 	The epoch: 9
+
+
+best accuracy: 0.2497. 	The epoch: 10
+best precision: 0.24969999750299998. 	The epoch: 10
+best recall: 0.24147465754919176. 	The epoch: 9
+best F1: 0.2432240540212692. 	The epoch: 9
+best loss: 613.0696747303009. 	The epoch: 10
+
+
+best accuracy: 0.2616. 	The epoch: 11
+best precision: 0.2615999973839999. 	The epoch: 11
+best recall: 0.2673795327630333. 	The epoch: 11
+best F1: 0.2644576920511709. 	The epoch: 11
+best loss: 601.3357486724854. 	The epoch: 11
+
+
+best accuracy: 0.2664. 	The epoch: 12
+best precision: 0.26639999733600006. 	The epoch: 12
+best recall: 0.27392015591742386. 	The epoch: 12
+best F1: 0.2701072440613948. 	The epoch: 12
+best loss: 601.3357486724854. 	The epoch: 11
+
+
+best accuracy: 0.2664. 	The epoch: 12
+best precision: 0.26639999733600006. 	The epoch: 12
+best recall: 0.2753138675341177. 	The epoch: 13
+best F1: 0.2701072440613948. 	The epoch: 12
+best loss: 598.6163544654846. 	The epoch: 13
+
+
+best accuracy: 0.2744. 	The epoch: 14
+best precision: 0.27439999725600006. 	The epoch: 14
+best recall: 0.27970643425821506. 	The epoch: 14
+best F1: 0.27702730708086803. 	The epoch: 14
+best loss: 591.024427652359. 	The epoch: 14
+
+
+best accuracy: 0.2763. 	The epoch: 15
+best precision: 0.2762999972370001. 	The epoch: 15
+best recall: 0.27970643425821506. 	The epoch: 14
+best F1: 0.2773378675718444. 	The epoch: 15
+best loss: 587.5642559528351. 	The epoch: 15
+
+
+best accuracy: 0.2799. 	The epoch: 16
+best precision: 0.279899997201. 	The epoch: 16
+best recall: 0.2850504876601782. 	The epoch: 16
+best F1: 0.28245126470579246. 	The epoch: 16
+best loss: 587.5642559528351. 	The epoch: 15
+
+
+best accuracy: 0.2826. 	The epoch: 17
+best precision: 0.2825999971740001. 	The epoch: 17
+best recall: 0.287778397251155. 	The epoch: 17
+best F1: 0.28516519020424136. 	The epoch: 17
+best loss: 585.824690580368. 	The epoch: 17
+
+
+best accuracy: 0.2826. 	The epoch: 17
+best precision: 0.2825999971740001. 	The epoch: 17
+best recall: 0.287778397251155. 	The epoch: 17
+best F1: 0.28516519020424136. 	The epoch: 17
+best loss: 585.824690580368. 	The epoch: 17
+
+
+best accuracy: 0.2886. 	The epoch: 19
+best precision: 0.2885999971140001. 	The epoch: 19
+best recall: 0.28812893767542574. 	The epoch: 19
+best F1: 0.28836377502044785. 	The epoch: 19
+best loss: 581.6805834770203. 	The epoch: 19
+
+
+best accuracy: 0.2886. 	The epoch: 19
+best precision: 0.2885999971140001. 	The epoch: 19
+best recall: 0.29543408415987715. 	The epoch: 20
+best F1: 0.2901745622738146. 	The epoch: 20
+best loss: 581.6805834770203. 	The epoch: 19
+
+
+best accuracy: 0.2886. 	The epoch: 19
+best precision: 0.2885999971140001. 	The epoch: 19
+best recall: 0.29543408415987715. 	The epoch: 20
+best F1: 0.2901745622738146. 	The epoch: 20
+best loss: 581.6805834770203. 	The epoch: 19
+
+
+best accuracy: 0.2886. 	The epoch: 19
+best precision: 0.2885999971140001. 	The epoch: 19
+best recall: 0.29543408415987715. 	The epoch: 20
+best F1: 0.2901745622738146. 	The epoch: 20
+best loss: 581.6805834770203. 	The epoch: 19
+
+
+best accuracy: 0.2949. 	The epoch: 23
+best precision: 0.2948999970510001. 	The epoch: 23
+best recall: 0.29543408415987715. 	The epoch: 20
+best F1: 0.29203022886745916. 	The epoch: 23
+best loss: 575.0811524391174. 	The epoch: 23
+
+
+best accuracy: 0.2949. 	The epoch: 23
+best precision: 0.2948999970510001. 	The epoch: 23
+best recall: 0.3086207186313872. 	The epoch: 24
+best F1: 0.2974174480802525. 	The epoch: 24
+best loss: 575.0811524391174. 	The epoch: 23
+
+
+best accuracy: 0.2966. 	The epoch: 25
+best precision: 0.2965999970340001. 	The epoch: 25
+best recall: 0.3086207186313872. 	The epoch: 24
+best F1: 0.2974174480802525. 	The epoch: 24
+best loss: 575.0811524391174. 	The epoch: 23
+
+
+best accuracy: 0.2966. 	The epoch: 25
+best precision: 0.2965999970340001. 	The epoch: 25
+best recall: 0.3086207186313872. 	The epoch: 24
+best F1: 0.2991278213067267. 	The epoch: 26
+best loss: 575.0811524391174. 	The epoch: 23
+
+
+best accuracy: 0.2988. 	The epoch: 27
+best precision: 0.29879999701199994. 	The epoch: 27
+best recall: 0.3086207186313872. 	The epoch: 24
+best F1: 0.30152341850165365. 	The epoch: 27
+best loss: 573.0284006595612. 	The epoch: 27
+
+
+best accuracy: 0.2988. 	The epoch: 27
+best precision: 0.29879999701199994. 	The epoch: 27
+best recall: 0.3086207186313872. 	The epoch: 24
+best F1: 0.30152341850165365. 	The epoch: 27
+best loss: 573.0284006595612. 	The epoch: 27
+
+
+best accuracy: 0.3039. 	The epoch: 29
+best precision: 0.30389999696100006. 	The epoch: 29
+best recall: 0.3086207186313872. 	The epoch: 24
+best F1: 0.3058684322171656. 	The epoch: 29
+best loss: 570.415821313858. 	The epoch: 29
+
+
+best accuracy: 0.3039. 	The epoch: 29
+best precision: 0.30389999696100006. 	The epoch: 29
+best recall: 0.3086207186313872. 	The epoch: 24
+best F1: 0.3058684322171656. 	The epoch: 29
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3039. 	The epoch: 29
+best precision: 0.30389999696100006. 	The epoch: 29
+best recall: 0.31088598901222614. 	The epoch: 31
+best F1: 0.3071992978673551. 	The epoch: 31
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3039. 	The epoch: 29
+best precision: 0.30389999696100006. 	The epoch: 29
+best recall: 0.31588882090278364. 	The epoch: 32
+best F1: 0.3071992978673551. 	The epoch: 31
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3039. 	The epoch: 29
+best precision: 0.30389999696100006. 	The epoch: 29
+best recall: 0.31588882090278364. 	The epoch: 32
+best F1: 0.3071992978673551. 	The epoch: 31
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3079. 	The epoch: 34
+best precision: 0.30789999692100006. 	The epoch: 34
+best recall: 0.31658871910169406. 	The epoch: 34
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3079. 	The epoch: 34
+best precision: 0.30789999692100006. 	The epoch: 34
+best recall: 0.31658871910169406. 	The epoch: 34
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3079. 	The epoch: 34
+best precision: 0.30789999692100006. 	The epoch: 34
+best recall: 0.31658871910169406. 	The epoch: 34
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3079. 	The epoch: 34
+best precision: 0.30789999692100006. 	The epoch: 34
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3079. 	The epoch: 34
+best precision: 0.30789999692100006. 	The epoch: 34
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3079. 	The epoch: 34
+best precision: 0.30789999692100006. 	The epoch: 34
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3079. 	The epoch: 34
+best precision: 0.30789999692100006. 	The epoch: 34
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3079. 	The epoch: 34
+best precision: 0.30789999692100006. 	The epoch: 34
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3079. 	The epoch: 34
+best precision: 0.30789999692100006. 	The epoch: 34
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3084. 	The epoch: 43
+best precision: 0.3083999969160001. 	The epoch: 43
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3084. 	The epoch: 43
+best precision: 0.3083999969160001. 	The epoch: 43
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3084. 	The epoch: 43
+best precision: 0.3083999969160001. 	The epoch: 43
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3084. 	The epoch: 43
+best precision: 0.3083999969160001. 	The epoch: 43
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3084. 	The epoch: 43
+best precision: 0.3083999969160001. 	The epoch: 43
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3084. 	The epoch: 43
+best precision: 0.3083999969160001. 	The epoch: 43
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3084. 	The epoch: 43
+best precision: 0.3083999969160001. 	The epoch: 43
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3121834135474941. 	The epoch: 34
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3094. 	The epoch: 50
+best precision: 0.30939999690600006. 	The epoch: 50
+best recall: 0.3188929268764915. 	The epoch: 37
+best F1: 0.3139407827268779. 	The epoch: 50
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3094. 	The epoch: 50
+best precision: 0.30939999690600006. 	The epoch: 50
+best recall: 0.32199786154065857. 	The epoch: 51
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32199786154065857. 	The epoch: 51
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.32261390898923326. 	The epoch: 53
+best F1: 0.3148951591219338. 	The epoch: 51
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3111. 	The epoch: 52
+best precision: 0.31109999688900014. 	The epoch: 52
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.3258615435399228. 	The epoch: 64
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3114. 	The epoch: 75
+best precision: 0.311399996886. 	The epoch: 75
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3116. 	The epoch: 92
+best precision: 0.3115999968840001. 	The epoch: 92
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3180997125484194. 	The epoch: 64
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32647844852533864. 	The epoch: 79
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.3268636584971227. 	The epoch: 94
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.3268636584971227. 	The epoch: 94
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.3268636584971227. 	The epoch: 94
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32688975358998695. 	The epoch: 97
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32688975358998695. 	The epoch: 97
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32688975358998695. 	The epoch: 97
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32688975358998695. 	The epoch: 97
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32688975358998695. 	The epoch: 97
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32688975358998695. 	The epoch: 97
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32688975358998695. 	The epoch: 97
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32688975358998695. 	The epoch: 97
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3132. 	The epoch: 93
+best precision: 0.31319999686800004. 	The epoch: 93
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 0.3139. 	The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 0.32701421101975503. 	The epoch: 105
+best F1: 0.3181546852609098. 	The epoch: 93
+best loss: 567.5171041488647. 	The epoch: 30
+
+
+best accuracy: 	0.3139  		The epoch: 253
+best precision: 0.31389999686099995. 	The epoch: 253
+best recall: 	0.32701421101975503. 	The epoch: 105
+best F1 score: 	0.3181546852609098. 	The epoch: 93
+best loss: 	567.5171041488647. 	The epoch: 30
+
+
