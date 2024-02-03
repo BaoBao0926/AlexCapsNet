@@ -1,0 +1,1800 @@
+
+Epoch 0:
+Total Loss: 734.5278930664062
+Running time: 8.867000818252563
+learing rate is 0.001
+next epoch lr is 0.000995,lr_dacay is 0.995
+
+Epoch 1:
+Total Loss: 421.4120178222656
+Running time: 8.871551513671875
+learing rate is 0.000995
+next epoch lr is 0.000990025,lr_dacay is 0.995
+
+Epoch 2:
+Total Loss: 367.95404052734375
+Running time: 8.779929399490356
+learing rate is 0.000990025
+next epoch lr is 0.000985074875,lr_dacay is 0.995
+
+Epoch 3:
+Total Loss: 345.32049560546875
+Running time: 8.809644222259521
+learing rate is 0.000985074875
+next epoch lr is 0.000980149500625,lr_dacay is 0.995
+
+Epoch 4:
+Total Loss: 321.6131896972656
+Running time: 8.809564352035522
+learing rate is 0.000980149500625
+next epoch lr is 0.000975248753121875,lr_dacay is 0.995
+
+Epoch 5:
+Total Loss: 307.0552062988281
+Running time: 8.993364810943604
+learing rate is 0.000975248753121875
+next epoch lr is 0.0009703725093562657,lr_dacay is 0.995
+
+Epoch 6:
+Total Loss: 294.5666198730469
+Running time: 8.916927099227905
+learing rate is 0.0009703725093562657
+next epoch lr is 0.0009655206468094843,lr_dacay is 0.995
+
+Epoch 7:
+Total Loss: 285.78363037109375
+Running time: 8.65531325340271
+learing rate is 0.0009655206468094843
+next epoch lr is 0.0009606930435754369,lr_dacay is 0.995
+
+Epoch 8:
+Total Loss: 270.33685302734375
+Running time: 8.660526514053345
+learing rate is 0.0009606930435754369
+next epoch lr is 0.0009558895783575597,lr_dacay is 0.995
+
+Epoch 9:
+Total Loss: 269.6825866699219
+Running time: 8.673629760742188
+learing rate is 0.0009558895783575597
+next epoch lr is 0.0009511101304657719,lr_dacay is 0.995
+
+Epoch 10:
+Total Loss: 256.75
+Running time: 8.945047378540039
+learing rate is 0.0009511101304657719
+next epoch lr is 0.000946354579813443,lr_dacay is 0.995
+
+Epoch 11:
+Total Loss: 253.282958984375
+Running time: 8.663724184036255
+learing rate is 0.000946354579813443
+next epoch lr is 0.0009416228069143757,lr_dacay is 0.995
+
+Epoch 12:
+Total Loss: 244.0963134765625
+Running time: 8.77028512954712
+learing rate is 0.0009416228069143757
+next epoch lr is 0.0009369146928798038,lr_dacay is 0.995
+
+Epoch 13:
+Total Loss: 235.6546630859375
+Running time: 8.682315826416016
+learing rate is 0.0009369146928798038
+next epoch lr is 0.0009322301194154048,lr_dacay is 0.995
+
+Epoch 14:
+Total Loss: 255.65115356445312
+Running time: 8.704310178756714
+learing rate is 0.0009322301194154048
+next epoch lr is 0.0009275689688183278,lr_dacay is 0.995
+
+Epoch 15:
+Total Loss: 229.51905822753906
+Running time: 8.932531356811523
+learing rate is 0.0009275689688183278
+next epoch lr is 0.0009229311239742361,lr_dacay is 0.995
+
+Epoch 16:
+Total Loss: 224.48257446289062
+Running time: 8.870701789855957
+learing rate is 0.0009229311239742361
+next epoch lr is 0.0009183164683543649,lr_dacay is 0.995
+
+Epoch 17:
+Total Loss: 217.93515014648438
+Running time: 8.86009931564331
+learing rate is 0.0009183164683543649
+next epoch lr is 0.0009137248860125931,lr_dacay is 0.995
+
+Epoch 18:
+Total Loss: 219.8127899169922
+Running time: 8.979312181472778
+learing rate is 0.0009137248860125931
+next epoch lr is 0.0009091562615825302,lr_dacay is 0.995
+
+Epoch 19:
+Total Loss: 238.09329223632812
+Running time: 8.703781127929688
+learing rate is 0.0009091562615825302
+next epoch lr is 0.0009046104802746175,lr_dacay is 0.995
+
+Epoch 20:
+Total Loss: 208.34881591796875
+Running time: 8.763335943222046
+learing rate is 0.0009046104802746175
+next epoch lr is 0.0009000874278732445,lr_dacay is 0.995
+
+Epoch 21:
+Total Loss: 200.9697723388672
+Running time: 8.74407696723938
+learing rate is 0.0009000874278732445
+next epoch lr is 0.0008955869907338783,lr_dacay is 0.995
+
+Epoch 22:
+Total Loss: 198.50840759277344
+Running time: 8.86327576637268
+learing rate is 0.0008955869907338783
+next epoch lr is 0.0008911090557802089,lr_dacay is 0.995
+
+Epoch 23:
+Total Loss: 210.82456970214844
+Running time: 8.750947952270508
+learing rate is 0.0008911090557802089
+next epoch lr is 0.0008866535105013078,lr_dacay is 0.995
+
+Epoch 24:
+Total Loss: 202.15052795410156
+Running time: 8.995576858520508
+learing rate is 0.0008866535105013078
+next epoch lr is 0.0008822202429488013,lr_dacay is 0.995
+
+Epoch 25:
+Total Loss: 192.74610900878906
+Running time: 8.572467565536499
+learing rate is 0.0008822202429488013
+next epoch lr is 0.0008778091417340573,lr_dacay is 0.995
+
+Epoch 26:
+Total Loss: 200.1714630126953
+Running time: 8.849261999130249
+learing rate is 0.0008778091417340573
+next epoch lr is 0.000873420096025387,lr_dacay is 0.995
+
+Epoch 27:
+Total Loss: 187.25650024414062
+Running time: 9.041810512542725
+learing rate is 0.000873420096025387
+next epoch lr is 0.0008690529955452601,lr_dacay is 0.995
+
+Epoch 28:
+Total Loss: 181.64903259277344
+Running time: 8.727612257003784
+learing rate is 0.0008690529955452601
+next epoch lr is 0.0008647077305675338,lr_dacay is 0.995
+
+Epoch 29:
+Total Loss: 191.28619384765625
+Running time: 8.769286155700684
+learing rate is 0.0008647077305675338
+next epoch lr is 0.0008603841919146961,lr_dacay is 0.995
+
+Epoch 30:
+Total Loss: 257.448974609375
+Running time: 8.81331181526184
+learing rate is 0.0008603841919146961
+next epoch lr is 0.0008560822709551226,lr_dacay is 0.995
+
+Epoch 31:
+Total Loss: 179.0843505859375
+Running time: 8.933341979980469
+learing rate is 0.0008560822709551226
+next epoch lr is 0.000851801859600347,lr_dacay is 0.995
+
+Epoch 32:
+Total Loss: 179.33737182617188
+Running time: 8.898762464523315
+learing rate is 0.000851801859600347
+next epoch lr is 0.0008475428503023452,lr_dacay is 0.995
+
+Epoch 33:
+Total Loss: 176.1983184814453
+Running time: 8.928769826889038
+learing rate is 0.0008475428503023452
+next epoch lr is 0.0008433051360508335,lr_dacay is 0.995
+
+Epoch 34:
+Total Loss: 189.2969512939453
+Running time: 8.829225301742554
+learing rate is 0.0008433051360508335
+next epoch lr is 0.0008390886103705794,lr_dacay is 0.995
+
+Epoch 35:
+Total Loss: 174.31443786621094
+Running time: 9.066763639450073
+learing rate is 0.0008390886103705794
+next epoch lr is 0.0008348931673187264,lr_dacay is 0.995
+
+Epoch 36:
+Total Loss: 206.3777618408203
+Running time: 8.883129596710205
+learing rate is 0.0008348931673187264
+next epoch lr is 0.0008307187014821328,lr_dacay is 0.995
+
+Epoch 37:
+Total Loss: 184.13792419433594
+Running time: 8.909446477890015
+learing rate is 0.0008307187014821328
+next epoch lr is 0.0008265651079747222,lr_dacay is 0.995
+
+Epoch 38:
+Total Loss: 161.38819885253906
+Running time: 8.97130799293518
+learing rate is 0.0008265651079747222
+next epoch lr is 0.0008224322824348485,lr_dacay is 0.995
+
+Epoch 39:
+Total Loss: 224.64341735839844
+Running time: 8.964184284210205
+learing rate is 0.0008224322824348485
+next epoch lr is 0.0008183201210226743,lr_dacay is 0.995
+
+Epoch 40:
+Total Loss: 148.53939819335938
+Running time: 8.756299257278442
+learing rate is 0.0008183201210226743
+next epoch lr is 0.0008142285204175609,lr_dacay is 0.995
+
+Epoch 41:
+Total Loss: 156.72991943359375
+Running time: 8.817914485931396
+learing rate is 0.0008142285204175609
+next epoch lr is 0.0008101573778154731,lr_dacay is 0.995
+
+Epoch 42:
+Total Loss: 165.0184783935547
+Running time: 8.640622615814209
+learing rate is 0.0008101573778154731
+next epoch lr is 0.0008061065909263957,lr_dacay is 0.995
+
+Epoch 43:
+Total Loss: 159.21376037597656
+Running time: 8.919898748397827
+learing rate is 0.0008061065909263957
+next epoch lr is 0.0008020760579717638,lr_dacay is 0.995
+
+Epoch 44:
+Total Loss: 214.54074096679688
+Running time: 8.845849990844727
+learing rate is 0.0008020760579717638
+next epoch lr is 0.000798065677681905,lr_dacay is 0.995
+
+Epoch 45:
+Total Loss: 260.04461669921875
+Running time: 8.957314491271973
+learing rate is 0.000798065677681905
+next epoch lr is 0.0007940753492934955,lr_dacay is 0.995
+
+Epoch 46:
+Total Loss: 178.44442749023438
+Running time: 8.784072637557983
+learing rate is 0.0007940753492934955
+next epoch lr is 0.000790104972547028,lr_dacay is 0.995
+
+Epoch 47:
+Total Loss: 135.70704650878906
+Running time: 8.640836000442505
+learing rate is 0.000790104972547028
+next epoch lr is 0.0007861544476842928,lr_dacay is 0.995
+
+Epoch 48:
+Total Loss: 153.61941528320312
+Running time: 8.844480276107788
+learing rate is 0.0007861544476842928
+next epoch lr is 0.0007822236754458713,lr_dacay is 0.995
+
+Epoch 49:
+Total Loss: 246.53582763671875
+Running time: 8.592144250869751
+learing rate is 0.0007822236754458713
+next epoch lr is 0.0007783125570686419,lr_dacay is 0.995
+
+Epoch 50:
+Total Loss: 161.19947814941406
+Running time: 8.947406768798828
+learing rate is 0.0007783125570686419
+next epoch lr is 0.0007744209942832988,lr_dacay is 0.995
+
+Epoch 51:
+Total Loss: 138.58802795410156
+Running time: 8.859525680541992
+learing rate is 0.0007744209942832988
+next epoch lr is 0.0007705488893118823,lr_dacay is 0.995
+
+Epoch 52:
+Total Loss: 143.7520751953125
+Running time: 8.6881263256073
+learing rate is 0.0007705488893118823
+next epoch lr is 0.0007666961448653228,lr_dacay is 0.995
+
+Epoch 53:
+Total Loss: 143.7026824951172
+Running time: 8.69962477684021
+learing rate is 0.0007666961448653228
+next epoch lr is 0.0007628626641409962,lr_dacay is 0.995
+
+Epoch 54:
+Total Loss: 211.44937133789062
+Running time: 8.670918703079224
+learing rate is 0.0007628626641409962
+next epoch lr is 0.0007590483508202912,lr_dacay is 0.995
+
+Epoch 55:
+Total Loss: 143.18331909179688
+Running time: 8.751922845840454
+learing rate is 0.0007590483508202912
+next epoch lr is 0.0007552531090661898,lr_dacay is 0.995
+
+Epoch 56:
+Total Loss: 128.44093322753906
+Running time: 8.828513622283936
+learing rate is 0.0007552531090661898
+next epoch lr is 0.0007514768435208588,lr_dacay is 0.995
+
+Epoch 57:
+Total Loss: 129.6031951904297
+Running time: 8.840915441513062
+learing rate is 0.0007514768435208588
+next epoch lr is 0.0007477194593032545,lr_dacay is 0.995
+
+Epoch 58:
+Total Loss: 212.31236267089844
+Running time: 8.734622955322266
+learing rate is 0.0007477194593032545
+next epoch lr is 0.0007439808620067382,lr_dacay is 0.995
+
+Epoch 59:
+Total Loss: 200.41262817382812
+Running time: 8.871726274490356
+learing rate is 0.0007439808620067382
+next epoch lr is 0.0007402609576967046,lr_dacay is 0.995
+
+Epoch 60:
+Total Loss: 126.03917694091797
+Running time: 8.698765516281128
+learing rate is 0.0007402609576967046
+next epoch lr is 0.000736559652908221,lr_dacay is 0.995
+
+Epoch 61:
+Total Loss: 123.47724151611328
+Running time: 8.816256046295166
+learing rate is 0.000736559652908221
+next epoch lr is 0.0007328768546436799,lr_dacay is 0.995
+
+Epoch 62:
+Total Loss: 139.32215881347656
+Running time: 8.773585319519043
+learing rate is 0.0007328768546436799
+next epoch lr is 0.0007292124703704615,lr_dacay is 0.995
+
+Epoch 63:
+Total Loss: 177.25946044921875
+Running time: 8.665493726730347
+learing rate is 0.0007292124703704615
+next epoch lr is 0.0007255664080186091,lr_dacay is 0.995
+
+Epoch 64:
+Total Loss: 108.41432189941406
+Running time: 8.905681371688843
+learing rate is 0.0007255664080186091
+next epoch lr is 0.0007219385759785161,lr_dacay is 0.995
+
+Epoch 65:
+Total Loss: 138.10108947753906
+Running time: 8.843106746673584
+learing rate is 0.0007219385759785161
+next epoch lr is 0.0007183288830986235,lr_dacay is 0.995
+
+Epoch 66:
+Total Loss: 125.47876739501953
+Running time: 8.713100910186768
+learing rate is 0.0007183288830986235
+next epoch lr is 0.0007147372386831303,lr_dacay is 0.995
+
+Epoch 67:
+Total Loss: 126.125244140625
+Running time: 8.64725375175476
+learing rate is 0.0007147372386831303
+next epoch lr is 0.0007111635524897147,lr_dacay is 0.995
+
+Epoch 68:
+Total Loss: 146.23057556152344
+Running time: 8.71352505683899
+learing rate is 0.0007111635524897147
+next epoch lr is 0.0007076077347272661,lr_dacay is 0.995
+
+Epoch 69:
+Total Loss: 150.35865783691406
+Running time: 8.881128311157227
+learing rate is 0.0007076077347272661
+next epoch lr is 0.0007040696960536298,lr_dacay is 0.995
+
+Epoch 70:
+Total Loss: 126.55453491210938
+Running time: 8.987070083618164
+learing rate is 0.0007040696960536298
+next epoch lr is 0.0007005493475733617,lr_dacay is 0.995
+
+Epoch 71:
+Total Loss: 194.81356811523438
+Running time: 8.96471118927002
+learing rate is 0.0007005493475733617
+next epoch lr is 0.0006970466008354948,lr_dacay is 0.995
+
+Epoch 72:
+Total Loss: 195.86737060546875
+Running time: 8.780755996704102
+learing rate is 0.0006970466008354948
+next epoch lr is 0.0006935613678313174,lr_dacay is 0.995
+
+Epoch 73:
+Total Loss: 124.626953125
+Running time: 8.657583236694336
+learing rate is 0.0006935613678313174
+next epoch lr is 0.0006900935609921607,lr_dacay is 0.995
+
+Epoch 74:
+Total Loss: 108.16218566894531
+Running time: 8.767535209655762
+learing rate is 0.0006900935609921607
+next epoch lr is 0.0006866430931872,lr_dacay is 0.995
+
+Epoch 75:
+Total Loss: 167.7930908203125
+Running time: 8.705016374588013
+learing rate is 0.0006866430931872
+next epoch lr is 0.000683209877721264,lr_dacay is 0.995
+
+Epoch 76:
+Total Loss: 105.89649963378906
+Running time: 8.922125101089478
+learing rate is 0.000683209877721264
+next epoch lr is 0.0006797938283326577,lr_dacay is 0.995
+
+Epoch 77:
+Total Loss: 112.18717193603516
+Running time: 8.773741483688354
+learing rate is 0.0006797938283326577
+next epoch lr is 0.0006763948591909945,lr_dacay is 0.995
+
+Epoch 78:
+Total Loss: 99.25386810302734
+Running time: 8.853824377059937
+learing rate is 0.0006763948591909945
+next epoch lr is 0.0006730128848950395,lr_dacay is 0.995
+
+Epoch 79:
+Total Loss: 172.19146728515625
+Running time: 8.80719256401062
+learing rate is 0.0006730128848950395
+next epoch lr is 0.0006696478204705643,lr_dacay is 0.995
+
+Epoch 80:
+Total Loss: 129.68997192382812
+Running time: 9.063428401947021
+learing rate is 0.0006696478204705643
+next epoch lr is 0.0006662995813682115,lr_dacay is 0.995
+
+Epoch 81:
+Total Loss: 153.921875
+Running time: 8.885376214981079
+learing rate is 0.0006662995813682115
+next epoch lr is 0.0006629680834613704,lr_dacay is 0.995
+
+Epoch 82:
+Total Loss: 133.68670654296875
+Running time: 8.844538688659668
+learing rate is 0.0006629680834613704
+next epoch lr is 0.0006596532430440636,lr_dacay is 0.995
+
+Epoch 83:
+Total Loss: 110.54007720947266
+Running time: 8.715537786483765
+learing rate is 0.0006596532430440636
+next epoch lr is 0.0006563549768288432,lr_dacay is 0.995
+
+Epoch 84:
+Total Loss: 97.99959564208984
+Running time: 8.68800687789917
+learing rate is 0.0006563549768288432
+next epoch lr is 0.000653073201944699,lr_dacay is 0.995
+
+Epoch 85:
+Total Loss: 111.62452697753906
+Running time: 8.692566394805908
+learing rate is 0.000653073201944699
+next epoch lr is 0.0006498078359349755,lr_dacay is 0.995
+
+Epoch 86:
+Total Loss: 231.5172576904297
+Running time: 8.668622970581055
+learing rate is 0.0006498078359349755
+next epoch lr is 0.0006465587967553006,lr_dacay is 0.995
+
+Epoch 87:
+Total Loss: 143.71578979492188
+Running time: 8.724878549575806
+learing rate is 0.0006465587967553006
+next epoch lr is 0.0006433260027715241,lr_dacay is 0.995
+
+Epoch 88:
+Total Loss: 96.59400177001953
+Running time: 8.804933547973633
+learing rate is 0.0006433260027715241
+next epoch lr is 0.0006401093727576665,lr_dacay is 0.995
+
+Epoch 89:
+Total Loss: 98.22024536132812
+Running time: 8.792104482650757
+learing rate is 0.0006401093727576665
+next epoch lr is 0.0006369088258938781,lr_dacay is 0.995
+
+Epoch 90:
+Total Loss: 86.26164245605469
+Running time: 8.662187576293945
+learing rate is 0.0006369088258938781
+next epoch lr is 0.0006337242817644087,lr_dacay is 0.995
+
+Epoch 91:
+Total Loss: 108.08692169189453
+Running time: 9.023033380508423
+learing rate is 0.0006337242817644087
+next epoch lr is 0.0006305556603555866,lr_dacay is 0.995
+
+Epoch 92:
+Total Loss: 111.33657836914062
+Running time: 8.793128252029419
+learing rate is 0.0006305556603555866
+next epoch lr is 0.0006274028820538087,lr_dacay is 0.995
+
+Epoch 93:
+Total Loss: 115.98746490478516
+Running time: 8.758984327316284
+learing rate is 0.0006274028820538087
+next epoch lr is 0.0006242658676435396,lr_dacay is 0.995
+
+Epoch 94:
+Total Loss: 106.13742065429688
+Running time: 8.783065557479858
+learing rate is 0.0006242658676435396
+next epoch lr is 0.0006211445383053219,lr_dacay is 0.995
+
+Epoch 95:
+Total Loss: 123.19293212890625
+Running time: 8.574865579605103
+learing rate is 0.0006211445383053219
+next epoch lr is 0.0006180388156137953,lr_dacay is 0.995
+
+Epoch 96:
+Total Loss: 358.5460510253906
+Running time: 8.78852367401123
+learing rate is 0.0006180388156137953
+next epoch lr is 0.0006149486215357262,lr_dacay is 0.995
+
+Epoch 97:
+Total Loss: 187.99351501464844
+Running time: 8.788085699081421
+learing rate is 0.0006149486215357262
+next epoch lr is 0.0006118738784280476,lr_dacay is 0.995
+
+Epoch 98:
+Total Loss: 138.8070068359375
+Running time: 8.763773918151855
+learing rate is 0.0006118738784280476
+next epoch lr is 0.0006088145090359073,lr_dacay is 0.995
+
+Epoch 99:
+Total Loss: 101.19770812988281
+Running time: 8.959163665771484
+learing rate is 0.0006088145090359073
+next epoch lr is 0.0006057704364907278,lr_dacay is 0.995
+
+Epoch 100:
+Total Loss: 113.96273803710938
+Running time: 8.722609996795654
+learing rate is 0.0006057704364907278
+next epoch lr is 0.0006027415843082742,lr_dacay is 0.995
+
+Epoch 101:
+Total Loss: 91.1815185546875
+Running time: 8.841742515563965
+learing rate is 0.0006027415843082742
+next epoch lr is 0.0005997278763867329,lr_dacay is 0.995
+
+Epoch 102:
+Total Loss: 868.4407348632812
+Running time: 8.855287790298462
+learing rate is 0.0005997278763867329
+next epoch lr is 0.0005967292370047993,lr_dacay is 0.995
+
+Epoch 103:
+Total Loss: 221.94651794433594
+Running time: 8.697468042373657
+learing rate is 0.0005967292370047993
+next epoch lr is 0.0005937455908197753,lr_dacay is 0.995
+
+Epoch 104:
+Total Loss: 141.00125122070312
+Running time: 8.724137306213379
+learing rate is 0.0005937455908197753
+next epoch lr is 0.0005907768628656764,lr_dacay is 0.995
+
+Epoch 105:
+Total Loss: 103.04828643798828
+Running time: 8.850198984146118
+learing rate is 0.0005907768628656764
+next epoch lr is 0.000587822978551348,lr_dacay is 0.995
+
+Epoch 106:
+Total Loss: 96.70672607421875
+Running time: 8.684528589248657
+learing rate is 0.000587822978551348
+next epoch lr is 0.0005848838636585913,lr_dacay is 0.995
+
+Epoch 107:
+Total Loss: 91.32577514648438
+Running time: 9.023638486862183
+learing rate is 0.0005848838636585913
+next epoch lr is 0.0005819594443402983,lr_dacay is 0.995
+
+Epoch 108:
+Total Loss: 82.18209838867188
+Running time: 8.83234453201294
+learing rate is 0.0005819594443402983
+next epoch lr is 0.0005790496471185969,lr_dacay is 0.995
+
+Epoch 109:
+Total Loss: 89.18700408935547
+Running time: 8.602322816848755
+learing rate is 0.0005790496471185969
+next epoch lr is 0.0005761543988830039,lr_dacay is 0.995
+
+Epoch 110:
+Total Loss: 90.28038024902344
+Running time: 8.815341472625732
+learing rate is 0.0005761543988830039
+next epoch lr is 0.0005732736268885889,lr_dacay is 0.995
+
+Epoch 111:
+Total Loss: 75.39872741699219
+Running time: 9.025800466537476
+learing rate is 0.0005732736268885889
+next epoch lr is 0.0005704072587541459,lr_dacay is 0.995
+
+Epoch 112:
+Total Loss: 132.22824096679688
+Running time: 8.67804479598999
+learing rate is 0.0005704072587541459
+next epoch lr is 0.0005675552224603752,lr_dacay is 0.995
+
+Epoch 113:
+Total Loss: 83.15389251708984
+Running time: 9.022175073623657
+learing rate is 0.0005675552224603752
+next epoch lr is 0.0005647174463480733,lr_dacay is 0.995
+
+Epoch 114:
+Total Loss: 108.49382019042969
+Running time: 9.062644958496094
+learing rate is 0.0005647174463480733
+next epoch lr is 0.0005618938591163329,lr_dacay is 0.995
+
+Epoch 115:
+Total Loss: 84.59227752685547
+Running time: 8.820341110229492
+learing rate is 0.0005618938591163329
+next epoch lr is 0.0005590843898207513,lr_dacay is 0.995
+
+Epoch 116:
+Total Loss: 98.40969848632812
+Running time: 8.863279581069946
+learing rate is 0.0005590843898207513
+next epoch lr is 0.0005562889678716475,lr_dacay is 0.995
+
+Epoch 117:
+Total Loss: 106.20661163330078
+Running time: 8.693841218948364
+learing rate is 0.0005562889678716475
+next epoch lr is 0.0005535075230322892,lr_dacay is 0.995
+
+Epoch 118:
+Total Loss: 71.78855895996094
+Running time: 8.762481451034546
+learing rate is 0.0005535075230322892
+next epoch lr is 0.0005507399854171277,lr_dacay is 0.995
+
+Epoch 119:
+Total Loss: 61.65038299560547
+Running time: 8.976191759109497
+learing rate is 0.0005507399854171277
+next epoch lr is 0.0005479862854900421,lr_dacay is 0.995
+
+Epoch 120:
+Total Loss: 192.1770782470703
+Running time: 8.705496072769165
+learing rate is 0.0005479862854900421
+next epoch lr is 0.0005452463540625918,lr_dacay is 0.995
+
+Epoch 121:
+Total Loss: 161.80569458007812
+Running time: 8.969827890396118
+learing rate is 0.0005452463540625918
+next epoch lr is 0.0005425201222922788,lr_dacay is 0.995
+
+Epoch 122:
+Total Loss: 75.93106079101562
+Running time: 8.843370914459229
+learing rate is 0.0005425201222922788
+next epoch lr is 0.0005398075216808175,lr_dacay is 0.995
+
+Epoch 123:
+Total Loss: 71.08207702636719
+Running time: 8.608856678009033
+learing rate is 0.0005398075216808175
+next epoch lr is 0.0005371084840724133,lr_dacay is 0.995
+
+Epoch 124:
+Total Loss: 54.07270812988281
+Running time: 8.880863189697266
+learing rate is 0.0005371084840724133
+next epoch lr is 0.0005344229416520513,lr_dacay is 0.995
+
+Epoch 125:
+Total Loss: 150.04278564453125
+Running time: 8.823675155639648
+learing rate is 0.0005344229416520513
+next epoch lr is 0.000531750826943791,lr_dacay is 0.995
+
+Epoch 126:
+Total Loss: 99.27171325683594
+Running time: 8.810997009277344
+learing rate is 0.000531750826943791
+next epoch lr is 0.000529092072809072,lr_dacay is 0.995
+
+Epoch 127:
+Total Loss: 66.48664855957031
+Running time: 8.835596084594727
+learing rate is 0.000529092072809072
+next epoch lr is 0.0005264466124450266,lr_dacay is 0.995
+
+Epoch 128:
+Total Loss: 107.75354766845703
+Running time: 8.67935585975647
+learing rate is 0.0005264466124450266
+next epoch lr is 0.0005238143793828015,lr_dacay is 0.995
+
+Epoch 129:
+Total Loss: 68.04864501953125
+Running time: 8.816911458969116
+learing rate is 0.0005238143793828015
+next epoch lr is 0.0005211953074858875,lr_dacay is 0.995
+
+Epoch 130:
+Total Loss: 195.01727294921875
+Running time: 8.841874599456787
+learing rate is 0.0005211953074858875
+next epoch lr is 0.0005185893309484581,lr_dacay is 0.995
+
+Epoch 131:
+Total Loss: 118.38436889648438
+Running time: 8.919182062149048
+learing rate is 0.0005185893309484581
+next epoch lr is 0.0005159963842937158,lr_dacay is 0.995
+
+Epoch 132:
+Total Loss: 125.09090423583984
+Running time: 8.819862604141235
+learing rate is 0.0005159963842937158
+next epoch lr is 0.0005134164023722472,lr_dacay is 0.995
+
+Epoch 133:
+Total Loss: 70.93060302734375
+Running time: 8.795581579208374
+learing rate is 0.0005134164023722472
+next epoch lr is 0.000510849320360386,lr_dacay is 0.995
+
+Epoch 134:
+Total Loss: 83.69351196289062
+Running time: 8.782747983932495
+learing rate is 0.000510849320360386
+next epoch lr is 0.0005082950737585841,lr_dacay is 0.995
+
+Epoch 135:
+Total Loss: 60.010475158691406
+Running time: 8.931552410125732
+learing rate is 0.0005082950737585841
+next epoch lr is 0.0005057535983897911,lr_dacay is 0.995
+
+Epoch 136:
+Total Loss: 44.471282958984375
+Running time: 8.679767847061157
+learing rate is 0.0005057535983897911
+next epoch lr is 0.0005032248303978422,lr_dacay is 0.995
+
+Epoch 137:
+Total Loss: 161.26319885253906
+Running time: 8.633955717086792
+learing rate is 0.0005032248303978422
+next epoch lr is 0.000500708706245853,lr_dacay is 0.995
+
+Epoch 138:
+Total Loss: 173.5675048828125
+Running time: 8.671289205551147
+learing rate is 0.000500708706245853
+next epoch lr is 0.0004982051627146237,lr_dacay is 0.995
+
+Epoch 139:
+Total Loss: 77.35857391357422
+Running time: 8.823287010192871
+learing rate is 0.0004982051627146237
+next epoch lr is 0.0004957141369010506,lr_dacay is 0.995
+
+Epoch 140:
+Total Loss: 49.14289474487305
+Running time: 8.924229145050049
+learing rate is 0.0004957141369010506
+next epoch lr is 0.0004932355662165453,lr_dacay is 0.995
+
+Epoch 141:
+Total Loss: 96.948974609375
+Running time: 8.881209135055542
+learing rate is 0.0004932355662165453
+next epoch lr is 0.0004907693883854625,lr_dacay is 0.995
+
+Epoch 142:
+Total Loss: 100.30120849609375
+Running time: 8.678525924682617
+learing rate is 0.0004907693883854625
+next epoch lr is 0.0004883155414435352,lr_dacay is 0.995
+
+Epoch 143:
+Total Loss: 76.49964141845703
+Running time: 8.92612099647522
+learing rate is 0.0004883155414435352
+next epoch lr is 0.00048587396373631753,lr_dacay is 0.995
+
+Epoch 144:
+Total Loss: 58.30633544921875
+Running time: 8.894498586654663
+learing rate is 0.00048587396373631753
+next epoch lr is 0.00048344459391763597,lr_dacay is 0.995
+
+Epoch 145:
+Total Loss: 70.58474731445312
+Running time: 8.837491989135742
+learing rate is 0.00048344459391763597
+next epoch lr is 0.0004810273709480478,lr_dacay is 0.995
+
+Epoch 146:
+Total Loss: 87.60470581054688
+Running time: 8.87053108215332
+learing rate is 0.0004810273709480478
+next epoch lr is 0.00047862223409330756,lr_dacay is 0.995
+
+Epoch 147:
+Total Loss: 66.77873229980469
+Running time: 8.822247743606567
+learing rate is 0.00047862223409330756
+next epoch lr is 0.000476229122922841,lr_dacay is 0.995
+
+Epoch 148:
+Total Loss: 43.57062911987305
+Running time: 8.739374876022339
+learing rate is 0.000476229122922841
+next epoch lr is 0.0004738479773082268,lr_dacay is 0.995
+
+Epoch 149:
+Total Loss: 100.34671783447266
+Running time: 8.785612106323242
+learing rate is 0.0004738479773082268
+next epoch lr is 0.0004714787374216857,lr_dacay is 0.995
+
+Epoch 150:
+Total Loss: 57.15309524536133
+Running time: 8.785550355911255
+learing rate is 0.0004714787374216857
+next epoch lr is 0.00046912134373457723,lr_dacay is 0.995
+
+Epoch 151:
+Total Loss: 132.10073852539062
+Running time: 8.808173894882202
+learing rate is 0.00046912134373457723
+next epoch lr is 0.00046677573701590436,lr_dacay is 0.995
+
+Epoch 152:
+Total Loss: 67.92686462402344
+Running time: 9.121918678283691
+learing rate is 0.00046677573701590436
+next epoch lr is 0.0004644418583308248,lr_dacay is 0.995
+
+Epoch 153:
+Total Loss: 62.452571868896484
+Running time: 8.689202785491943
+learing rate is 0.0004644418583308248
+next epoch lr is 0.0004621196490391707,lr_dacay is 0.995
+
+Epoch 154:
+Total Loss: 188.94619750976562
+Running time: 8.805363178253174
+learing rate is 0.0004621196490391707
+next epoch lr is 0.00045980905079397486,lr_dacay is 0.995
+
+Epoch 155:
+Total Loss: 54.239646911621094
+Running time: 8.853641033172607
+learing rate is 0.00045980905079397486
+next epoch lr is 0.000457510005540005,lr_dacay is 0.995
+
+Epoch 156:
+Total Loss: 36.94448471069336
+Running time: 8.688977003097534
+learing rate is 0.000457510005540005
+next epoch lr is 0.00045522245551230493,lr_dacay is 0.995
+
+Epoch 157:
+Total Loss: 149.73809814453125
+Running time: 8.771133422851562
+learing rate is 0.00045522245551230493
+next epoch lr is 0.0004529463432347434,lr_dacay is 0.995
+
+Epoch 158:
+Total Loss: 78.0428237915039
+Running time: 8.99163556098938
+learing rate is 0.0004529463432347434
+next epoch lr is 0.00045068161151856965,lr_dacay is 0.995
+
+Epoch 159:
+Total Loss: 43.62876510620117
+Running time: 9.034394979476929
+learing rate is 0.00045068161151856965
+next epoch lr is 0.0004484282034609768,lr_dacay is 0.995
+
+Epoch 160:
+Total Loss: 82.1020736694336
+Running time: 8.620256662368774
+learing rate is 0.0004484282034609768
+next epoch lr is 0.0004461860624436719,lr_dacay is 0.995
+
+Epoch 161:
+Total Loss: 83.72026824951172
+Running time: 8.827054500579834
+learing rate is 0.0004461860624436719
+next epoch lr is 0.00044395513213145357,lr_dacay is 0.995
+
+Epoch 162:
+Total Loss: 45.44397735595703
+Running time: 8.829406976699829
+learing rate is 0.00044395513213145357
+next epoch lr is 0.0004417353564707963,lr_dacay is 0.995
+
+Epoch 163:
+Total Loss: 45.575889587402344
+Running time: 8.817172527313232
+learing rate is 0.0004417353564707963
+next epoch lr is 0.00043952667968844234,lr_dacay is 0.995
+
+Epoch 164:
+Total Loss: 142.6033935546875
+Running time: 8.730446100234985
+learing rate is 0.00043952667968844234
+next epoch lr is 0.0004373290462900001,lr_dacay is 0.995
+
+Epoch 165:
+Total Loss: 138.68406677246094
+Running time: 8.678825855255127
+learing rate is 0.0004373290462900001
+next epoch lr is 0.0004351424010585501,lr_dacay is 0.995
+
+Epoch 166:
+Total Loss: 66.16255187988281
+Running time: 8.992800951004028
+learing rate is 0.0004351424010585501
+next epoch lr is 0.00043296668905325734,lr_dacay is 0.995
+
+Epoch 167:
+Total Loss: 52.18996810913086
+Running time: 8.859046220779419
+learing rate is 0.00043296668905325734
+next epoch lr is 0.00043080185560799106,lr_dacay is 0.995
+
+Epoch 168:
+Total Loss: 47.02924728393555
+Running time: 8.857219934463501
+learing rate is 0.00043080185560799106
+next epoch lr is 0.0004286478463299511,lr_dacay is 0.995
+
+Epoch 169:
+Total Loss: 79.05326843261719
+Running time: 8.673219203948975
+learing rate is 0.0004286478463299511
+next epoch lr is 0.00042650460709830134,lr_dacay is 0.995
+
+Epoch 170:
+Total Loss: 107.8354263305664
+Running time: 8.815146684646606
+learing rate is 0.00042650460709830134
+next epoch lr is 0.00042437208406280984,lr_dacay is 0.995
+
+Epoch 171:
+Total Loss: 94.9544906616211
+Running time: 8.660423040390015
+learing rate is 0.00042437208406280984
+next epoch lr is 0.0004222502236424958,lr_dacay is 0.995
+
+Epoch 172:
+Total Loss: 57.56481170654297
+Running time: 8.734839677810669
+learing rate is 0.0004222502236424958
+next epoch lr is 0.0004201389725242833,lr_dacay is 0.995
+
+Epoch 173:
+Total Loss: 45.96901321411133
+Running time: 8.892999410629272
+learing rate is 0.0004201389725242833
+next epoch lr is 0.00041803827766166186,lr_dacay is 0.995
+
+Epoch 174:
+Total Loss: 59.160484313964844
+Running time: 8.669988632202148
+learing rate is 0.00041803827766166186
+next epoch lr is 0.00041594808627335356,lr_dacay is 0.995
+
+Epoch 175:
+Total Loss: 237.74835205078125
+Running time: 8.958625555038452
+learing rate is 0.00041594808627335356
+next epoch lr is 0.0004138683458419868,lr_dacay is 0.995
+
+Epoch 176:
+Total Loss: 117.63391876220703
+Running time: 8.755406379699707
+learing rate is 0.0004138683458419868
+next epoch lr is 0.00041179900411277687,lr_dacay is 0.995
+
+Epoch 177:
+Total Loss: 46.55162811279297
+Running time: 8.648736953735352
+learing rate is 0.00041179900411277687
+next epoch lr is 0.000409740009092213,lr_dacay is 0.995
+
+Epoch 178:
+Total Loss: 34.58448791503906
+Running time: 8.713667869567871
+learing rate is 0.000409740009092213
+next epoch lr is 0.00040769130904675196,lr_dacay is 0.995
+
+Epoch 179:
+Total Loss: 103.2844467163086
+Running time: 8.93822956085205
+learing rate is 0.00040769130904675196
+next epoch lr is 0.0004056528525015182,lr_dacay is 0.995
+
+Epoch 180:
+Total Loss: 62.499122619628906
+Running time: 8.686667680740356
+learing rate is 0.0004056528525015182
+next epoch lr is 0.0004036245882390106,lr_dacay is 0.995
+
+Epoch 181:
+Total Loss: 41.23776626586914
+Running time: 9.004249811172485
+learing rate is 0.0004036245882390106
+next epoch lr is 0.00040160646529781557,lr_dacay is 0.995
+
+Epoch 182:
+Total Loss: 98.87113189697266
+Running time: 8.802343606948853
+learing rate is 0.00040160646529781557
+next epoch lr is 0.00039959843297132647,lr_dacay is 0.995
+
+Epoch 183:
+Total Loss: 39.34659957885742
+Running time: 8.822084188461304
+learing rate is 0.00039959843297132647
+next epoch lr is 0.00039760044080646985,lr_dacay is 0.995
+
+Epoch 184:
+Total Loss: 32.04362487792969
+Running time: 9.125239133834839
+learing rate is 0.00039760044080646985
+next epoch lr is 0.0003956124386024375,lr_dacay is 0.995
+
+Epoch 185:
+Total Loss: 57.74039840698242
+Running time: 8.750065803527832
+learing rate is 0.0003956124386024375
+next epoch lr is 0.0003936343764094253,lr_dacay is 0.995
+
+Epoch 186:
+Total Loss: 49.4942512512207
+Running time: 8.87095832824707
+learing rate is 0.0003936343764094253
+next epoch lr is 0.00039166620452737815,lr_dacay is 0.995
+
+Epoch 187:
+Total Loss: 63.78504180908203
+Running time: 8.921793460845947
+learing rate is 0.00039166620452737815
+next epoch lr is 0.00038970787350474124,lr_dacay is 0.995
+
+Epoch 188:
+Total Loss: 37.39579391479492
+Running time: 8.776357173919678
+learing rate is 0.00038970787350474124
+next epoch lr is 0.0003877593341372175,lr_dacay is 0.995
+
+Epoch 189:
+Total Loss: 44.071292877197266
+Running time: 8.7798171043396
+learing rate is 0.0003877593341372175
+next epoch lr is 0.00038582053746653145,lr_dacay is 0.995
+
+Epoch 190:
+Total Loss: 54.03324890136719
+Running time: 8.756776332855225
+learing rate is 0.00038582053746653145
+next epoch lr is 0.0003838914347791988,lr_dacay is 0.995
+
+Epoch 191:
+Total Loss: 69.4887466430664
+Running time: 9.093745708465576
+learing rate is 0.0003838914347791988
+next epoch lr is 0.0003819719776053028,lr_dacay is 0.995
+
+Epoch 192:
+Total Loss: 27.050586700439453
+Running time: 8.76888132095337
+learing rate is 0.0003819719776053028
+next epoch lr is 0.00038006211771727627,lr_dacay is 0.995
+
+Epoch 193:
+Total Loss: 50.06608963012695
+Running time: 8.666016817092896
+learing rate is 0.00038006211771727627
+next epoch lr is 0.0003781618071286899,lr_dacay is 0.995
+
+Epoch 194:
+Total Loss: 53.41001892089844
+Running time: 8.646477460861206
+learing rate is 0.0003781618071286899
+next epoch lr is 0.00037627099809304647,lr_dacay is 0.995
+
+Epoch 195:
+Total Loss: 42.05800247192383
+Running time: 8.681941032409668
+learing rate is 0.00037627099809304647
+next epoch lr is 0.00037438964310258126,lr_dacay is 0.995
+
+Epoch 196:
+Total Loss: 365.8206481933594
+Running time: 8.674312591552734
+learing rate is 0.00037438964310258126
+next epoch lr is 0.00037251769488706835,lr_dacay is 0.995
+
+Epoch 197:
+Total Loss: 65.24627685546875
+Running time: 8.831945419311523
+learing rate is 0.00037251769488706835
+next epoch lr is 0.000370655106412633,lr_dacay is 0.995
+
+Epoch 198:
+Total Loss: 48.06532669067383
+Running time: 8.890852451324463
+learing rate is 0.000370655106412633
+next epoch lr is 0.00036880183088056984,lr_dacay is 0.995
+
+Epoch 199:
+Total Loss: 33.735069274902344
+Running time: 8.686189413070679
+learing rate is 0.00036880183088056984
+next epoch lr is 0.000366957821726167,lr_dacay is 0.995
+
+Epoch 200:
+Total Loss: 43.04563522338867
+Running time: 8.76818060874939
+learing rate is 0.000366957821726167
+next epoch lr is 0.00036512303261753613,lr_dacay is 0.995
+
+Epoch 201:
+Total Loss: 31.62165069580078
+Running time: 8.848300695419312
+learing rate is 0.00036512303261753613
+next epoch lr is 0.00036329741745444845,lr_dacay is 0.995
+
+Epoch 202:
+Total Loss: 30.528921127319336
+Running time: 8.7946195602417
+learing rate is 0.00036329741745444845
+next epoch lr is 0.0003614809303671762,lr_dacay is 0.995
+
+Epoch 203:
+Total Loss: 23.352474212646484
+Running time: 8.748408555984497
+learing rate is 0.0003614809303671762
+next epoch lr is 0.0003596735257153403,lr_dacay is 0.995
+
+Epoch 204:
+Total Loss: 44.38678741455078
+Running time: 8.643713235855103
+learing rate is 0.0003596735257153403
+next epoch lr is 0.00035787515808676363,lr_dacay is 0.995
+
+Epoch 205:
+Total Loss: 53.4830207824707
+Running time: 8.865797758102417
+learing rate is 0.00035787515808676363
+next epoch lr is 0.00035608578229632984,lr_dacay is 0.995
+
+Epoch 206:
+Total Loss: 46.88583755493164
+Running time: 8.646216869354248
+learing rate is 0.00035608578229632984
+next epoch lr is 0.0003543053533848482,lr_dacay is 0.995
+
+Epoch 207:
+Total Loss: 34.04206085205078
+Running time: 9.05117416381836
+learing rate is 0.0003543053533848482
+next epoch lr is 0.00035253382661792394,lr_dacay is 0.995
+
+Epoch 208:
+Total Loss: 85.23243713378906
+Running time: 8.613036870956421
+learing rate is 0.00035253382661792394
+next epoch lr is 0.0003507711574848343,lr_dacay is 0.995
+
+Epoch 209:
+Total Loss: 56.67600631713867
+Running time: 8.80817437171936
+learing rate is 0.0003507711574848343
+next epoch lr is 0.00034901730169741013,lr_dacay is 0.995
+
+Epoch 210:
+Total Loss: 34.48162078857422
+Running time: 8.760286569595337
+learing rate is 0.00034901730169741013
+next epoch lr is 0.0003472722151889231,lr_dacay is 0.995
+
+Epoch 211:
+Total Loss: 49.70054244995117
+Running time: 8.964770078659058
+learing rate is 0.0003472722151889231
+next epoch lr is 0.0003455358541129785,lr_dacay is 0.995
+
+Epoch 212:
+Total Loss: 99.6916732788086
+Running time: 8.7343008518219
+learing rate is 0.0003455358541129785
+next epoch lr is 0.0003438081748424136,lr_dacay is 0.995
+
+Epoch 213:
+Total Loss: 34.57493591308594
+Running time: 8.637655973434448
+learing rate is 0.0003438081748424136
+next epoch lr is 0.0003420891339682015,lr_dacay is 0.995
+
+Epoch 214:
+Total Loss: 19.895009994506836
+Running time: 8.655404329299927
+learing rate is 0.0003420891339682015
+next epoch lr is 0.0003403786882983605,lr_dacay is 0.995
+
+Epoch 215:
+Total Loss: 26.894033432006836
+Running time: 8.70815396308899
+learing rate is 0.0003403786882983605
+next epoch lr is 0.0003386767948568687,lr_dacay is 0.995
+
+Epoch 216:
+Total Loss: 145.5242156982422
+Running time: 9.083182096481323
+learing rate is 0.0003386767948568687
+next epoch lr is 0.00033698341088258437,lr_dacay is 0.995
+
+Epoch 217:
+Total Loss: 44.73992156982422
+Running time: 8.769582271575928
+learing rate is 0.00033698341088258437
+next epoch lr is 0.00033529849382817143,lr_dacay is 0.995
+
+Epoch 218:
+Total Loss: 21.922361373901367
+Running time: 8.86259412765503
+learing rate is 0.00033529849382817143
+next epoch lr is 0.00033362200135903056,lr_dacay is 0.995
+
+Epoch 219:
+Total Loss: 25.82660675048828
+Running time: 8.730696439743042
+learing rate is 0.00033362200135903056
+next epoch lr is 0.0003319538913522354,lr_dacay is 0.995
+
+Epoch 220:
+Total Loss: 22.045835494995117
+Running time: 8.78864336013794
+learing rate is 0.0003319538913522354
+next epoch lr is 0.00033029412189547426,lr_dacay is 0.995
+
+Epoch 221:
+Total Loss: 13.667061805725098
+Running time: 8.863145112991333
+learing rate is 0.00033029412189547426
+next epoch lr is 0.0003286426512859969,lr_dacay is 0.995
+
+Epoch 222:
+Total Loss: 56.080352783203125
+Running time: 8.861921548843384
+learing rate is 0.0003286426512859969
+next epoch lr is 0.0003269994380295669,lr_dacay is 0.995
+
+Epoch 223:
+Total Loss: 288.93353271484375
+Running time: 8.802602052688599
+learing rate is 0.0003269994380295669
+next epoch lr is 0.0003253644408394191,lr_dacay is 0.995
+
+Epoch 224:
+Total Loss: 62.79103469848633
+Running time: 8.872830390930176
+learing rate is 0.0003253644408394191
+next epoch lr is 0.000323737618635222,lr_dacay is 0.995
+
+Epoch 225:
+Total Loss: 25.273292541503906
+Running time: 8.84498405456543
+learing rate is 0.000323737618635222
+next epoch lr is 0.00032211893054204585,lr_dacay is 0.995
+
+Epoch 226:
+Total Loss: 35.255435943603516
+Running time: 8.769301891326904
+learing rate is 0.00032211893054204585
+next epoch lr is 0.0003205083358893356,lr_dacay is 0.995
+
+Epoch 227:
+Total Loss: 17.71253776550293
+Running time: 8.950655460357666
+learing rate is 0.0003205083358893356
+next epoch lr is 0.0003189057942098889,lr_dacay is 0.995
+
+Epoch 228:
+Total Loss: 32.08275604248047
+Running time: 8.90401816368103
+learing rate is 0.0003189057942098889
+next epoch lr is 0.00031731126523883944,lr_dacay is 0.995
+
+Epoch 229:
+Total Loss: 20.280672073364258
+Running time: 8.779515743255615
+learing rate is 0.00031731126523883944
+next epoch lr is 0.00031572470891264525,lr_dacay is 0.995
+
+Epoch 230:
+Total Loss: 30.64640235900879
+Running time: 9.084436416625977
+learing rate is 0.00031572470891264525
+next epoch lr is 0.000314146085368082,lr_dacay is 0.995
+
+Epoch 231:
+Total Loss: 345.8385009765625
+Running time: 8.808573722839355
+learing rate is 0.000314146085368082
+next epoch lr is 0.0003125753549412416,lr_dacay is 0.995
+
+Epoch 232:
+Total Loss: 52.09664535522461
+Running time: 8.731472730636597
+learing rate is 0.0003125753549412416
+next epoch lr is 0.0003110124781665354,lr_dacay is 0.995
+
+Epoch 233:
+Total Loss: 26.113075256347656
+Running time: 8.816406965255737
+learing rate is 0.0003110124781665354
+next epoch lr is 0.00030945741577570273,lr_dacay is 0.995
+
+Epoch 234:
+Total Loss: 55.751956939697266
+Running time: 8.900109052658081
+learing rate is 0.00030945741577570273
+next epoch lr is 0.0003079101286968242,lr_dacay is 0.995
+
+Epoch 235:
+Total Loss: 25.889423370361328
+Running time: 9.034978151321411
+learing rate is 0.0003079101286968242
+next epoch lr is 0.0003063705780533401,lr_dacay is 0.995
+
+Epoch 236:
+Total Loss: 24.502716064453125
+Running time: 8.973608016967773
+learing rate is 0.0003063705780533401
+next epoch lr is 0.0003048387251630734,lr_dacay is 0.995
+
+Epoch 237:
+Total Loss: 32.11915969848633
+Running time: 8.924095630645752
+learing rate is 0.0003048387251630734
+next epoch lr is 0.000303314531537258,lr_dacay is 0.995
+
+Epoch 238:
+Total Loss: 29.80510902404785
+Running time: 8.775854587554932
+learing rate is 0.000303314531537258
+next epoch lr is 0.0003017979588795717,lr_dacay is 0.995
+
+Epoch 239:
+Total Loss: 27.456571578979492
+Running time: 9.047945499420166
+learing rate is 0.0003017979588795717
+next epoch lr is 0.0003002889690851738,lr_dacay is 0.995
+
+Epoch 240:
+Total Loss: 140.7276611328125
+Running time: 9.010611057281494
+learing rate is 0.0003002889690851738
+next epoch lr is 0.000298787524239748,lr_dacay is 0.995
+
+Epoch 241:
+Total Loss: 27.373708724975586
+Running time: 8.831536769866943
+learing rate is 0.000298787524239748
+next epoch lr is 0.0002972935866185492,lr_dacay is 0.995
+
+Epoch 242:
+Total Loss: 27.79469108581543
+Running time: 8.780516624450684
+learing rate is 0.0002972935866185492
+next epoch lr is 0.00029580711868545646,lr_dacay is 0.995
+
+Epoch 243:
+Total Loss: 14.866372108459473
+Running time: 9.166452884674072
+learing rate is 0.00029580711868545646
+next epoch lr is 0.0002943280830920292,lr_dacay is 0.995
+
+Epoch 244:
+Total Loss: 143.08119201660156
+Running time: 8.966363191604614
+learing rate is 0.0002943280830920292
+next epoch lr is 0.00029285644267656904,lr_dacay is 0.995
+
+Epoch 245:
+Total Loss: 101.10647583007812
+Running time: 8.719912052154541
+learing rate is 0.00029285644267656904
+next epoch lr is 0.0002913921604631862,lr_dacay is 0.995
+
+Epoch 246:
+Total Loss: 73.03997039794922
+Running time: 8.879156589508057
+learing rate is 0.0002913921604631862
+next epoch lr is 0.00028993519966087026,lr_dacay is 0.995
+
+Epoch 247:
+Total Loss: 33.99156951904297
+Running time: 8.854135751724243
+learing rate is 0.00028993519966087026
+next epoch lr is 0.0002884855236625659,lr_dacay is 0.995
+
+Epoch 248:
+Total Loss: 107.09038543701172
+Running time: 9.178426742553711
+learing rate is 0.0002884855236625659
+next epoch lr is 0.00028704309604425307,lr_dacay is 0.995
+
+Epoch 249:
+Total Loss: 22.317035675048828
+Running time: 9.133657932281494
+learing rate is 0.00028704309604425307
+next epoch lr is 0.0002856078805640318,lr_dacay is 0.995
+
+Epoch 250:
+Total Loss: 16.005918502807617
+Running time: 8.961181879043579
+learing rate is 0.0002856078805640318
+next epoch lr is 0.0002841798411612116,lr_dacay is 0.995
+
+Epoch 251:
+Total Loss: 30.46494483947754
+Running time: 8.794476747512817
+learing rate is 0.0002841798411612116
+next epoch lr is 0.0002827589419554055,lr_dacay is 0.995
+
+Epoch 252:
+Total Loss: 160.52516174316406
+Running time: 8.979071378707886
+learing rate is 0.0002827589419554055
+next epoch lr is 0.0002813451472456285,lr_dacay is 0.995
+
+Epoch 253:
+Total Loss: 45.73634719848633
+Running time: 8.762732982635498
+learing rate is 0.0002813451472456285
+next epoch lr is 0.0002799384215094004,lr_dacay is 0.995
+
+Epoch 254:
+Total Loss: 31.38625144958496
+Running time: 8.913339853286743
+learing rate is 0.0002799384215094004
+next epoch lr is 0.00027853872940185336,lr_dacay is 0.995
+
+Epoch 255:
+Total Loss: 25.826547622680664
+Running time: 8.947603464126587
+learing rate is 0.00027853872940185336
+next epoch lr is 0.0002771460357548441,lr_dacay is 0.995
+
+Epoch 256:
+Total Loss: 53.06269454956055
+Running time: 8.818986415863037
+learing rate is 0.0002771460357548441
+next epoch lr is 0.0002757603055760699,lr_dacay is 0.995
+
+Epoch 257:
+Total Loss: 61.99626922607422
+Running time: 8.8182213306427
+learing rate is 0.0002757603055760699
+next epoch lr is 0.0002743815040481895,lr_dacay is 0.995
+
+Epoch 258:
+Total Loss: 27.753768920898438
+Running time: 8.76130485534668
+learing rate is 0.0002743815040481895
+next epoch lr is 0.00027300959652794857,lr_dacay is 0.995
+
+Epoch 259:
+Total Loss: 119.65726470947266
+Running time: 8.65681791305542
+learing rate is 0.00027300959652794857
+next epoch lr is 0.0002716445485453088,lr_dacay is 0.995
+
+Epoch 260:
+Total Loss: 781.0303344726562
+Running time: 8.812617778778076
+learing rate is 0.0002716445485453088
+next epoch lr is 0.0002702863258025823,lr_dacay is 0.995
+
+Epoch 261:
+Total Loss: 103.01968383789062
+Running time: 8.694159746170044
+learing rate is 0.0002702863258025823
+next epoch lr is 0.00026893489417356936,lr_dacay is 0.995
+
+Epoch 262:
+Total Loss: 43.67936325073242
+Running time: 8.978426933288574
+learing rate is 0.00026893489417356936
+next epoch lr is 0.0002675902197027015,lr_dacay is 0.995
+
+Epoch 263:
+Total Loss: 28.557865142822266
+Running time: 8.939929723739624
+learing rate is 0.0002675902197027015
+next epoch lr is 0.000266252268604188,lr_dacay is 0.995
+
+Epoch 264:
+Total Loss: 36.00605010986328
+Running time: 8.808073043823242
+learing rate is 0.000266252268604188
+next epoch lr is 0.0002649210072611671,lr_dacay is 0.995
+
+Epoch 265:
+Total Loss: 41.75861740112305
+Running time: 8.80758786201477
+learing rate is 0.0002649210072611671
+next epoch lr is 0.0002635964022248612,lr_dacay is 0.995
+
+Epoch 266:
+Total Loss: 17.201231002807617
+Running time: 9.10723352432251
+learing rate is 0.0002635964022248612
+next epoch lr is 0.0002622784202137369,lr_dacay is 0.995
+
+Epoch 267:
+Total Loss: 294.9148864746094
+Running time: 8.908262729644775
+learing rate is 0.0002622784202137369
+next epoch lr is 0.00026096702811266825,lr_dacay is 0.995
+
+Epoch 268:
+Total Loss: 178.1830291748047
+Running time: 8.8299560546875
+learing rate is 0.00026096702811266825
+next epoch lr is 0.0002596621929721049,lr_dacay is 0.995
+
+Epoch 269:
+Total Loss: 92.4989013671875
+Running time: 8.74265456199646
+learing rate is 0.0002596621929721049
+next epoch lr is 0.0002583638820072444,lr_dacay is 0.995
+
+Epoch 270:
+Total Loss: 55.63102722167969
+Running time: 8.722593307495117
+learing rate is 0.0002583638820072444
+next epoch lr is 0.00025707206259720813,lr_dacay is 0.995
+
+Epoch 271:
+Total Loss: 34.692996978759766
+Running time: 8.851184606552124
+learing rate is 0.00025707206259720813
+next epoch lr is 0.0002557867022842221,lr_dacay is 0.995
+
+Epoch 272:
+Total Loss: 24.727069854736328
+Running time: 8.704596281051636
+learing rate is 0.0002557867022842221
+next epoch lr is 0.00025450776877280096,lr_dacay is 0.995
+
+Epoch 273:
+Total Loss: 26.643939971923828
+Running time: 8.90066385269165
+learing rate is 0.00025450776877280096
+next epoch lr is 0.00025323522992893693,lr_dacay is 0.995
+
+Epoch 274:
+Total Loss: 44.31327438354492
+Running time: 8.76289677619934
+learing rate is 0.00025323522992893693
+next epoch lr is 0.00025196905377929227,lr_dacay is 0.995
+
+Epoch 275:
+Total Loss: 49.91335678100586
+Running time: 8.730462074279785
+learing rate is 0.00025196905377929227
+next epoch lr is 0.0002507092085103958,lr_dacay is 0.995
+
+Epoch 276:
+Total Loss: 20.9060001373291
+Running time: 8.934430599212646
+learing rate is 0.0002507092085103958
+next epoch lr is 0.0002494556624678438,lr_dacay is 0.995
+
+Epoch 277:
+Total Loss: 12.451701164245605
+Running time: 9.12040376663208
+learing rate is 0.0002494556624678438
+next epoch lr is 0.0002482083841555046,lr_dacay is 0.995
+
+Epoch 278:
+Total Loss: 28.674551010131836
+Running time: 8.894835710525513
+learing rate is 0.0002482083841555046
+next epoch lr is 0.00024696734223472706,lr_dacay is 0.995
+
+Epoch 279:
+Total Loss: 37.07063293457031
+Running time: 8.687927484512329
+learing rate is 0.00024696734223472706
+next epoch lr is 0.00024573250552355344,lr_dacay is 0.995
+
+Epoch 280:
+Total Loss: 66.90324401855469
+Running time: 8.747721433639526
+learing rate is 0.00024573250552355344
+next epoch lr is 0.00024450384299593567,lr_dacay is 0.995
+
+Epoch 281:
+Total Loss: 31.905502319335938
+Running time: 8.690161228179932
+learing rate is 0.00024450384299593567
+next epoch lr is 0.000243281323780956,lr_dacay is 0.995
+
+Epoch 282:
+Total Loss: 28.708820343017578
+Running time: 8.771381139755249
+learing rate is 0.000243281323780956
+next epoch lr is 0.0002420649171620512,lr_dacay is 0.995
+
+Epoch 283:
+Total Loss: 18.852800369262695
+Running time: 8.799771547317505
+learing rate is 0.0002420649171620512
+next epoch lr is 0.00024085459257624093,lr_dacay is 0.995
+
+Epoch 284:
+Total Loss: 19.942914962768555
+Running time: 8.870519161224365
+learing rate is 0.00024085459257624093
+next epoch lr is 0.00023965031961335973,lr_dacay is 0.995
+
+Epoch 285:
+Total Loss: 37.83258819580078
+Running time: 8.75811505317688
+learing rate is 0.00023965031961335973
+next epoch lr is 0.00023845206801529294,lr_dacay is 0.995
+
+Epoch 286:
+Total Loss: 29.85072898864746
+Running time: 8.74006199836731
+learing rate is 0.00023845206801529294
+next epoch lr is 0.00023725980767521648,lr_dacay is 0.995
+
+Epoch 287:
+Total Loss: 101.30274200439453
+Running time: 8.686240434646606
+learing rate is 0.00023725980767521648
+next epoch lr is 0.00023607350863684038,lr_dacay is 0.995
+
+Epoch 288:
+Total Loss: 26.123964309692383
+Running time: 8.716458797454834
+learing rate is 0.00023607350863684038
+next epoch lr is 0.00023489314109365617,lr_dacay is 0.995
+
+Epoch 289:
+Total Loss: 15.39416217803955
+Running time: 8.844567775726318
+learing rate is 0.00023489314109365617
+next epoch lr is 0.0002337186753881879,lr_dacay is 0.995
+
+Epoch 290:
+Total Loss: 15.58415699005127
+Running time: 8.852082252502441
+learing rate is 0.0002337186753881879
+next epoch lr is 0.00023255008201124696,lr_dacay is 0.995
+
+Epoch 291:
+Total Loss: 27.846960067749023
+Running time: 8.658390522003174
+learing rate is 0.00023255008201124696
+next epoch lr is 0.00023138733160119073,lr_dacay is 0.995
+
+Epoch 292:
+Total Loss: 22.90935707092285
+Running time: 8.727464199066162
+learing rate is 0.00023138733160119073
+next epoch lr is 0.0002302303949431848,lr_dacay is 0.995
+
+Epoch 293:
+Total Loss: 14.497451782226562
+Running time: 8.816391706466675
+learing rate is 0.0002302303949431848
+next epoch lr is 0.00022907924296846886,lr_dacay is 0.995
+
+Epoch 294:
+Total Loss: 45.7436637878418
+Running time: 8.62989091873169
+learing rate is 0.00022907924296846886
+next epoch lr is 0.0002279338467536265,lr_dacay is 0.995
+
+Epoch 295:
+Total Loss: 18.518495559692383
+Running time: 8.577831029891968
+learing rate is 0.0002279338467536265
+next epoch lr is 0.00022679417751985838,lr_dacay is 0.995
+
+Epoch 296:
+Total Loss: 22.8338680267334
+Running time: 8.72688341140747
+learing rate is 0.00022679417751985838
+next epoch lr is 0.00022566020663225908,lr_dacay is 0.995
+
+Epoch 297:
+Total Loss: 15.07405948638916
+Running time: 8.766701459884644
+learing rate is 0.00022566020663225908
+next epoch lr is 0.00022453190559909778,lr_dacay is 0.995
+
+Epoch 298:
+Total Loss: 24.78784942626953
+Running time: 8.67472505569458
+learing rate is 0.00022453190559909778
+next epoch lr is 0.00022340924607110228,lr_dacay is 0.995
+
+Epoch 299:
+Total Loss: 18.974063873291016
+Running time: 8.696801662445068
+learing rate is 0.00022340924607110228
+next epoch lr is 0.00022229219984074678,lr_dacay is 0.995
