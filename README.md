@@ -23,7 +23,7 @@ This is a project to improve the performance of Capsule Network by integrating t
 <details>
   
 <summary>
-  This is AlexNet Architecture
+  Architecture of AlexNet:
 </summary>
 
 <br />
@@ -35,7 +35,7 @@ This is a project to improve the performance of Capsule Network by integrating t
 <details>
   
 <summary>
-  This is the Capsule Network Architecture
+  Architecture of Capsule Network:
 </summary>
 
 <br />
@@ -47,7 +47,7 @@ This is a project to improve the performance of Capsule Network by integrating t
 <details>
   
 <summary>
-  This is the AlexCapsNet Architecture
+  Architecture of AlexCapsNet:
 </summary>
 
 <br />
@@ -59,7 +59,7 @@ This is a project to improve the performance of Capsule Network by integrating t
 <details>
   
 <summary>
-  This is the Shallow-AlexCapsNet Architecture
+  Architecture of Shallow-AlexCapsNet:
 </summary>
 
 <br />
@@ -72,7 +72,21 @@ This is a project to improve the performance of Capsule Network by integrating t
 </details>
  <!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  -->
 
+
+
 # Experiment Dataset
+
+All datasets are built-in methods in [torchvision](https://pytorch.org/vision/stable/datasets.html#built-in-datasets)
+
+| Dataset           | [MNIST](https://yann.lecun.com/exdb/mnist/)   | [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) | [SVHN](http://ufldl.stanford.edu/housenumbers/)   | [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) | [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html) | [FOOD101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)   | [FLOWER102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)  |
+| -------           | ------- | -------       |  ---   | ------- | -------  | -------   | -------    | 
+| Categories Number | 10      | 10            | 10     | 10      |  100     | 101       |  102       |
+| Image Size        | 28×28   | 28×28         | 32×32  | 32×32   |  32×32   | ＜512×512 |  ＞500×500 |
+| Channel Number    | 1       | 1             |  3     | 3       |  3       | 3         |    3       |
+| Training Samples  | 50,000  | 50,000        | 73,257 | 50,000  |  50,000  |  75.750   |   6149     |
+| Testing Samples   | 10,000  | 10,000        | 26,032 | 10,000  |  10,000  |  25,250   |   1020     |   
+| Noise             | No      | No            | Yes    | Yes     |  Yes     |  Yes      | Yes        |
+
 
 <img src="https://github.com/BaoBao0926/AlexCapsNet/blob/main/picture/datasetImage.png" width="500">
 
