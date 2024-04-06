@@ -84,7 +84,7 @@ This is a project to improve the performance of Capsule Network by integrating t
 </details>
 
 
-# 3.Experiment Dataset
+# 3.Experimental Dataset
 
 All datasets are built-in methods in [torchvision](https://pytorch.org/vision/stable/datasets.html#built-in-datasets)
 
@@ -197,7 +197,7 @@ In this section, we show all data genereated in this project together. Moreover,
 |AlexNet       | 99.19 | 91.88  |   |     |     |    |      |
 |CapsNet       | 99.21 | 90.27  |   |     |     |    |      |
 |CapsNet-R     | 99.22 | 90.51  |   |     |     |    |      |
-|AlexCapsNet   | 99.66 | 93.25  |   |     |     |    |      |
+|AlexCapsNet   | 99.66 | 93.25  | 95.07  |     |     |    |      |
 |AlexCapsNet-R | 99.66 | 93.50  |   |     |     |    |      |
 |S-AlexCapsNet | 99.60 | 92.93  |   |     |     |    |      |
  
@@ -214,12 +214,12 @@ In this section, we show all data genereated in this project together. Moreover,
 
 | Model        | MNIST | FMNIST | SVHN   |  CIFAR10 | CIFAR100 | FOOD101 | FLOWER102 |
 |------        | ----- | -----  | ----   | -------  | ------   | ------  | -------   |
-|AlexNet       | 99.16 |   |   |     |     |    |      |
-|CapsNet       | 99.20 |   |   |     |     |    |      |
-|CapsNet-R     | 99.22 |   |   |     |     |    |      |
-|AlexCapsNet   | 99.65 |   |   |     |     |    |      |
-|AlexCapsNet-R | 99.65 |   |   |     |     |    |      |
-|S-AlexCapsNet | 99.59 |   |   |     |     |    |      |
+|AlexNet       | 99.16 | 91.82  |   |     |     |    |      |
+|CapsNet       | 99.20 | 90.31  |   |     |     |    |      |
+|CapsNet-R     | 99.22 | 90.54  |   |     |     |    |      |
+|AlexCapsNet   | 99.65 | 93.27 | 95.02  |     |     |    |      |
+|AlexCapsNet-R | 99.65 | 93.54  |   |     |     |    |      |
+|S-AlexCapsNet | 99.59 | 93.18  |   |     |     |    |      |
  
 </details>
 
@@ -234,12 +234,12 @@ In this section, we show all data genereated in this project together. Moreover,
 
 | Model        | MNIST | FMNIST | SVHN   |  CIFAR10 | CIFAR100 | FOOD101 | FLOWER102 |
 |------        | ----- | -----  | ----   | -------  | ------   | ------  | -------   |
-|AlexNet       | 99.18 |   |   |     |     |    |      |
-|CapsNet       | 99.21 |   |   |     |     |    |      |
-|CapsNet-R     | 99.22 |   |   |     |     |    |      |
-|AlexCapsNet   | 99.66 |   |   |     |     |    |      |
-|AlexCapsNet-R | 99.66 |   |   |     |     |    |      |
-|S-AlexCapsNet | 99.60 |   |   |     |     |    |      |
+|AlexNet       | 99.18 | 91.16  |   |     |     |    |      |
+|CapsNet       | 99.21 | 90.29  |   |     |     |    |      |
+|CapsNet-R     | 99.22 | 90.53  |   |     |     |    |      |
+|AlexCapsNet   | 99.66 | 93.26  | 94.99  |     |     |    |      |
+|AlexCapsNet-R | 99.66 | 93.52  |   |     |     |    |      |
+|S-AlexCapsNet | 99.60 | 93.17  |   |     |     |    |      |
  
 </details>
 
@@ -254,12 +254,12 @@ In this section, we show all data genereated in this project together. Moreover,
 
 | Model        | MNIST | FMNIST | SVHN   |  CIFAR10 | CIFAR100 | FOOD101 | FLOWER102 |
 |------        | ----- | -----  | ----   | -------  | ------   | ------  | -------   |
-|AlexNet       | 251   |   |   |     |     |    |      |
-|CapsNet       | 38    |   |   |     |     |    |      |
-|CapsNet-R     | 15    |   |   |     |     |    |      |
-|AlexCapsNet   | 83    |   |   |     |     |    |      |
-|AlexCapsNet-R | 35    |   |   |     |     |    |      |
-|S-AlexCapsNet | 58    |   |   |     |     |    |      |
+|AlexNet       | 251   | 74     |   |     |     |    |      |
+|CapsNet       | 38    | 255    |   |     |     |    |      |
+|CapsNet-R     | 15    | 11     |   |     |     |    |      |
+|AlexCapsNet   | 83    | 199    | 279  |     |     |    |      |
+|AlexCapsNet-R | 35    | 152    |   |     |     |    |      |
+|S-AlexCapsNet | 58    | 10     |   |     |     |    |      |
  
 </details>
 
