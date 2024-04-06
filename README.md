@@ -1,6 +1,6 @@
 ## Hey! This is [Muyi Bao](https://github.com/BaoBao0926/BaoBao0926.github.io/tree/main)! 👋👋
 # 1.Introduction to AlexCapsNet
-This is a project to improve the performance of Capsule Network by integrating the AlexNet and CapsNet, called AlexCapsNet, used in image classification. As results, we improve the CapsNet performance across the evaluation of 5 datasets. Moreover we evaluate the performance on the dataset with noise and the dataset with large number of categoires.
+This is a project to improve the performance of Capsule Network by integrating the AlexNet and CapsNet, called AlexCapsNet, used in image classification. As results, we improve the CapsNet performance across the evaluation of 5 datasets. Moreover we evaluate the performance on the dataset with noise and the dataset with large number of categoires across seven datasets.
   
 - All weighting file can be found in the "result" folder
   
