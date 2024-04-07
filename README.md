@@ -249,7 +249,7 @@ In this section, we show all data genereated in this project together. Moreover,
 <details>
 
 <summary>
- The epoch to reach the best performance(th), evaluated by accuracy:
+ The epoch to reach the best accuracy(th):
 </summary>
 
 <br />
