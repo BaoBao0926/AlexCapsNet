@@ -8,10 +8,10 @@ This is a project to improve the performance of Capsule Network by integrating t
   - AlexNet.py         is to train the Network
   - AlexNet_Module.py  is to create Networks
   - recon_visual.py    is to visualize the reconstructed images
-  - utils.py           is to save methods, such as training and evaluating codes, Dataloader and some simple methods.
+  - utils.py           is to save some methods, such as training and evaluating codes, Dataloader and some simple methods.
 
 - Main Contribution are listed below:
-   - We have proposed a novel architecture, namely AlexCapsNet, which utilizes the AlexNet as feature extraction layers to capture deeper and more semantic features for CapsNet. This integration achieves the state-of-the-art performance, compared to the other variants of CapsNet.
+   - We have proposed a novel architecture, namely AlexCapsNet, which utilizes the AlexNet as feature extraction layers to capture deeper and more semantic features for CapsNet. This integration improve the performance, compared to the other variants of CapsNet.
 
    - We have proposed the Shallow-AlexNet (S-AlexNet) module, which has fewer layers than AlexNet. Through our experiments, we find that S-AlexNet is more suitable for the datasets with many categories and AlexNet module excels in the datasets with few categories. This observation underscores the crucial role of the depth of the feature extraction layers in the performance of CapsNet.
 
