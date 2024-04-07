@@ -194,12 +194,12 @@ In this section, we show all data genereated in this project together. Moreover,
 
 | Model        | MNIST | FMNIST | SVHN   |  CIFAR10 | CIFAR100 | FOOD101 | FLOWER102 |
 |------        | ----- | -----  | ----   | -------  | ------   | ------  | -------   |
-|AlexNet       | 99.19 | 91.88  |   |     |     |    |      |
-|CapsNet       | 99.21 | 90.27  |   |     |     |    |      |
-|CapsNet-R     | 99.22 | 90.51  |   |     |     |    |      |
-|AlexCapsNet   | 99.66 | 93.25  | 95.07  |     |     |    |      |
-|AlexCapsNet-R | 99.66 | 93.50  |   |     |     |    |      |
-|S-AlexCapsNet | 99.60 | 92.93  |   |     |     |    |      |
+|AlexNet       | 99.19 | 91.88  | 93.77  |  72.74   |  32.70   |  22.63  |  46.65    |
+|CapsNet       | 99.21 | 90.27  | 91.28  |  70.98   |  43.19   |  18.63  |  48.78    |
+|CapsNet-R     | 99.22 | 90.51  | 91.46  |  79.21   |  33.79   |   9.37  |  48.58   |
+|AlexCapsNet   | 99.66 | 93.25  | 95.07  |  83.69   |  51.08   |  27.30  |  45.47    |
+|AlexCapsNet-R | 99.66 | 93.50  | 94.81  |  77.31   |  33.95   |   4.04  |  32.57    |
+|S-AlexCapsNet | 99.60 | 92.93  | 94.12  |  80.14   |  52.90   |  30.38  |  52.52    |
  
 </details>
 
@@ -214,12 +214,12 @@ In this section, we show all data genereated in this project together. Moreover,
 
 | Model        | MNIST | FMNIST | SVHN   |  CIFAR10 | CIFAR100 | FOOD101 | FLOWER102 |
 |------        | ----- | -----  | ----   | -------  | ------   | ------  | -------   |
-|AlexNet       | 99.16 | 91.82  |   |     |     |    |      |
-|CapsNet       | 99.20 | 90.31  |   |     |     |    |      |
-|CapsNet-R     | 99.22 | 90.54  |   |     |     |    |      |
-|AlexCapsNet   | 99.65 | 93.27 | 95.02  |     |     |    |      |
-|AlexCapsNet-R | 99.65 | 93.54  |   |     |     |    |      |
-|S-AlexCapsNet | 99.59 | 93.18  |   |     |     |    |      |
+|AlexNet       | 99.16 | 91.82  |  93.52 |  72.53   |  31.38   |  22.49  |  44.02    |
+|CapsNet       | 99.20 | 90.31  |  90.70 |  70.45   |  42.02   |  18.97  |  39.02    |
+|CapsNet-R     | 99.22 | 90.54  |  88.13 |  67.27   |  34.38   |  10.57  |  38.63    |
+|AlexCapsNet   | 99.65 | 93.27  |  95.02 |  83.67   |  49.86   |  27.68  |  40.00    |
+|AlexCapsNet-R | 99.65 | 93.54  |  94.72 |  75.72   |  34.33   |   4.55  |  25.98    |
+|S-AlexCapsNet | 99.59 | 93.18  |  93.79 |  79.98   |  51.86   |  30.58  |  46.37    |
  
 </details>
 
@@ -234,12 +234,12 @@ In this section, we show all data genereated in this project together. Moreover,
 
 | Model        | MNIST | FMNIST | SVHN   |  CIFAR10 | CIFAR100 | FOOD101 | FLOWER102 |
 |------        | ----- | -----  | ----   | -------  | ------   | ------  | -------   |
-|AlexNet       | 99.18 | 91.16  |   |     |     |    |      |
-|CapsNet       | 99.21 | 90.29  |   |     |     |    |      |
-|CapsNet-R     | 99.22 | 90.53  |   |     |     |    |      |
-|AlexCapsNet   | 99.66 | 93.26  | 94.99  |     |     |    |      |
-|AlexCapsNet-R | 99.66 | 93.52  |   |     |     |    |      |
-|S-AlexCapsNet | 99.60 | 93.17  |   |     |     |    |      |
+|AlexNet       | 99.18 | 91.16  | 93.56  | 72.59    |  31.82   |  22.50  |  45.19    |
+|CapsNet       | 99.21 | 90.29  | 90.54  | 70.59    |  42.56   |  18.45  |  43.05    |
+|CapsNet-R     | 99.22 | 90.53  | 88.28  | 67.58    |  34.08   |   9.90  |  42.70    |
+|AlexCapsNet   | 99.66 | 93.26  | 94.99  | 83.68    |  50.40   |  27.34  |  42.46    |
+|AlexCapsNet-R | 99.66 | 93.52  | 94.70  | 76.00    |  34.14   |   4.28  |  28.74    |
+|S-AlexCapsNet | 99.60 | 93.17  | 93.72  | 80.04    |  52.38   |  30.40  |  48.98    |
  
 </details>
 
@@ -254,12 +254,12 @@ In this section, we show all data genereated in this project together. Moreover,
 
 | Model        | MNIST | FMNIST | SVHN   |  CIFAR10 | CIFAR100 | FOOD101 | FLOWER102 |
 |------        | ----- | -----  | ----   | -------  | ------   | ------  | -------   |
-|AlexNet       | 251   | 74     |   |     |     |    |      |
-|CapsNet       | 38    | 255    |   |     |     |    |      |
-|CapsNet-R     | 15    | 11     |   |     |     |    |      |
-|AlexCapsNet   | 83    | 199    | 279  |     |     |    |      |
-|AlexCapsNet-R | 35    | 152    |   |     |     |    |      |
-|S-AlexCapsNet | 58    | 10     |   |     |     |    |      |
+|AlexNet       | 251   | 74     |  194   |  298     |  253     |  11     |  70       |
+|CapsNet       | 38    | 255    |  15    |  7       |  7       |  4      |  8        |
+|CapsNet-R     | 15    | 11     |  79    |  54      |  56      |  48     |  199      |
+|AlexCapsNet   | 83    | 199    |  279   |  230     |  15      |  7      |  34       |
+|AlexCapsNet-R | 35    | 152    |  237   |  73      |  130     |  50     |  294      |
+|S-AlexCapsNet | 58    | 10     |  287   |  9       |  7       |  10     |  31       |
  
 </details>
 
