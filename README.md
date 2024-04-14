@@ -1,6 +1,6 @@
 ## Hey! This is [Muyi Bao](https://github.com/BaoBao0926/BaoBao0926.github.io/tree/main)! 👋👋
 
-English | [简体中文](.\README-Chinese.md)
+English | [简体中文](./README-Chinese.md)
 
 ---
 
