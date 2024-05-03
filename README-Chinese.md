@@ -147,7 +147,7 @@
 
 ## 4.3 Performance Analysis of Reconstruction Model
 
-Reconstruction Module是和Capsule Network一同提出的，是用于从Dynamic Routing中提取特征恢复原图的一种方法，更多细节看这篇[文章](https://proceedings.neurips.cc/paper_files/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html) 
+Reconstruction Module是和Capsule Network一同提出的，是用于从Dynamic Routing中提取特征恢复原图的一种方法，使用了三层线性层(MLP)进行恢复的，更多细节看这篇[文章](https://proceedings.neurips.cc/paper_files/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html) 
 
 
 在本节中，我们要探讨Reconstruction Module的效果。我们分别使用CapsNet和AlexCapsNet对重构模块进行了评估。数据(**准确率**作为评价指标)如下表所示:
