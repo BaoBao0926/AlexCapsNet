@@ -6,21 +6,22 @@
 
 这是一个将AlexNet和CapsNet集成在一起，提高Capsule Network性能的项目，我们称之为AlexCapsNet，用于图像分类。我们提高了CapsNet的性能在5个数据集的评估中。此外，我们还评估了不同层数的特征提取层在具有大量类别和少量类别的数据集上的性能，以及七个数据集上具有和不具有噪声的数据集上的reconstruction module。
 
--所有权重文件都可以在“结果”文件夹中找到
+- 所有权重文件都可以在“结果”文件夹中找到
 
--所有代码都可以在文件夹中找到:
-- AlexNet.py:是储存训练模型的代码
-- AlexNet_Module.py：储存模型网络的代码
-- recon_visual.py用于将重建的图像可视化的代码
-- utils.py是保存一些方法，如训练和评估代码，Dataloader和其他一些简单的方法。
+- 所有代码都可以在文件夹中找到:
 
--主要贡献如下:
+  - AlexNet.py:是储存训练模型的代码
+  - AlexNet_Module.py：储存模型网络的代码
+  - recon_visual.py用于将重建的图像可视化的代码
+  - utils.py是保存一些方法，如训练和评估代码，Dataloader和其他一些简单的方法。
 
-  -我们提出了一种新的架构，即AlexCapsNet，它利用AlexNet作为特征提取层，为CapsNet捕获更深层次和更多的语义特征。与CapsNet的其他variants相比，这种集成提高了性能。
+- 主要贡献如下:
 
-  -我们提出了Shallow-AlexNet (S-AlexNet)模块，其层数比AlexNet少。通过实验，我们发现S-AlexNet更适合于类别多的数据集，AlexNet模块在类别少的数据集上表现出色。这一观察结果强调了特征提取层的深度在CapsNet性能中的关键作用。
+  - 我们提出了一种新的架构，即AlexCapsNet，它利用AlexNet作为特征提取层，为CapsNet捕获更深层次和更多的语义特征。与CapsNet的其他variants相比，这种集成提高了性能。
 
-  -通过对不同特征提取层模块的进一步研究，我们发现重构模块在没有噪声的数据集中更有效，而在有背景噪声的数据集中表现较差。这一观察结果显示了重建模块的潜在脆弱性和局限性。
+  - 我们提出了Shallow-AlexNet (S-AlexNet)模块，其层数比AlexNet少。通过实验，我们发现S-AlexNet更适合于类别多的数据集，AlexNet模块在类别少的数据集上表现出色。这一观察结果强调了特征提取层的深度在CapsNet性能中的关键作用。
+
+  - 通过对不同特征提取层模块的进一步研究，我们发现重构模块在没有噪声的数据集中更有效，而在有背景噪声的数据集中表现较差。这一观察结果显示了重建模块的潜在脆弱性和局限性。
 
 
   # 2.Network Architecture
@@ -124,11 +125,11 @@
 |[Deeper-CapsNet](https://ieeexplore.ieee.org/abstract/document/8852020/)|**99.84**|-|-|82.30|
 |**AlexCapsNet(ours)**|99.66|93.27|**95.33**|**83.67**|
 
--总的来说，AlexCapsNet改进了很多，相比较于baseline（AlexNet和CapsNet）。
+- 总的来说，AlexCapsNet改进了很多，相比较于baseline（AlexNet和CapsNet）。
 
-—在相对简单的数据集MNIST和FMNIST上，AlexCapsNet的性能接近最佳性能。
+— 在相对简单的数据集MNIST和FMNIST上，AlexCapsNet的性能接近最佳性能。
 
--在相对复杂的数据集SVHN和CIFAR10上，AlexCapsNet的性能是比较模型中最好的
+- 在相对复杂的数据集SVHN和CIFAR10上，AlexCapsNet的性能是比较模型中最好的
 
 ## 4.2 Validation on the Depth of Feature Extraction Layers
 
@@ -139,11 +140,11 @@
 |AlexCapsNet| **99.66** | **93.27** | **95.53** | **83.67** | 49.86 | 27.68 | 40.00 |
 |S-AlexCapsNet | 99.60 | 93.18 | 94.10 | 79.98 | **51.86** | **30.59** | **50.78** |
 
--在类别较少的数据集上，如MNIST, FMIST, SVHN和CIFAR10，更深的特征提取层(AlexNet Module)可以有更好的性能。
+- 在类别较少的数据集上，如MNIST, FMIST, SVHN和CIFAR10，更深的特征提取层(AlexNet Module)可以有更好的性能。
 
--在类别较大的数据集上，如CIFAR100, FOOD101和FLOWER102，浅层特征提取层可以有更好的性能。
+- 在类别较大的数据集上，如CIFAR100, FOOD101和FLOWER102，浅层特征提取层可以有更好的性能。
 
--这可能是由于在具有大量类别的数据集中，类别之间的相似性很高。更深的特征提取层可能会混淆语义信息，因此表现不佳。
+- 这可能是由于在具有大量类别的数据集中，类别之间的相似性很高。更深的特征提取层可能会混淆语义信息，因此表现不佳。
 
 ## 4.3 Performance Analysis of Reconstruction Model
 
@@ -160,10 +161,10 @@ Reconstruction Module是和Capsule Network一同提出的，是用于从Dynamic 
 |AlexCapsNet-R| **99.66** | **93.54** | 95.13 | 75.72 | 34.33 | 4.55 | 25.98 |
 
 
--在无噪声数据集，MINST和FMINST上，Reconstruction Module可以帮助提高性能。
--在噪声数据集SVHN, CIFAR10, CIFAR100, FOOD101和FLOWER102上，Reconstruction Module降低了性能。
--当遇到带有背景噪声的图像时，会显示出较差的重建性能。
--重建后的图像显示如下:
+- 在无噪声数据集，MINST和FMINST上，Reconstruction Module可以帮助提高性能。
+- 在噪声数据集SVHN, CIFAR10, CIFAR100, FOOD101和FLOWER102上，Reconstruction Module降低了性能。
+- 当遇到带有背景噪声的图像时，会显示出较差的重建性能。
+- 重建后的图像显示如下:
 
 <img src="https://github.com/BaoBao0926/AlexCapsNet/blob/main/picture/reconstruction_image.png" width="500">
 
