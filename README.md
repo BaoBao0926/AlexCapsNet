@@ -23,71 +23,11 @@ Capsule networks (CapsNet) are a pioneering architecture that can encode image f
   - utils.py           is to save some methods, such as training and evaluating codes, Dataloader and some simple methods.
 
 
-# 2.Network Architecture
+# Network Architecture
 
-<!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  -->
-<details>
-  
-<summary>
-  Architecture of AlexNet:
-</summary>
+<img src="https://github.com/BaoBao0926/AlexCapsNet/blob/main/figure/AlexCapsNet.png" alt="AlexCapsNet" width="700"/> 
 
-<br />
-
- ![image](https://github.com/BaoBao0926/AlexCapsNet/blob/main/picture/AlexNet.png)
- 
-</details>
-<!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  -->
-<details>
-  
-<summary>
-  Architecture of Capsule Network:
-</summary>
-
-<br />
-
- ![image](https://github.com/BaoBao0926/AlexCapsNet/blob/main/picture/CapsNet.png)
- 
-</details>
-  <!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  -->
-<details>
-  
-<summary>
-  Architecture of AlexCapsNet:
-</summary>
-
-<br />
-
- ![image](https://github.com/BaoBao0926/AlexCapsNet/blob/main/picture/AlexCapsNet.png)
- 
-</details>
- <!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  -->
-<details>
-  
-<summary>
-  Architecture of Shallow-AlexCapsNet:
-</summary>
-
-<br />
-
- ![image](https://github.com/BaoBao0926/AlexCapsNet/blob/main/picture/Shallow%20AlexCapsNet.png)
-
- And more details in Shallow-AlexNet Module
- 
- ![image](https://github.com/BaoBao0926/AlexCapsNet/blob/main/picture/S-ACN-M.png)
-</details>
- <!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  --><!--  -->
-<details>
-  
-<summary>
-  Architecture of AlexCapsNet or S-AlexCapsNet with the reconstruction module
-</summary>
-
-<br />
-
- ![image](https://github.com/BaoBao0926/AlexCapsNet/blob/main/picture/ACN-Recon.png)
-
-</details>
+<img src="https://github.com/BaoBao0926/AlexCapsNet/blob/main/figure/CapsNet-R.png" alt="CapsNet-R" width="300"/> <img src="https://github.com/BaoBao0926/AlexCapsNet/blob/main/figure/AlexCapsNet-R.png" alt="AlexCapsNet-R" width="400"/> 
 
 
 # 3.Experimental Dataset
