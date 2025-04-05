@@ -1,28 +1,27 @@
-## Hey! This is [Muyi Bao](https://github.com/BaoBao0926/BaoBao0926.github.io/tree/main)! 👋👋
+# AlexCapsNet: An Integrated Architecture for Image Classification With Background Noise
 
----
+### Authors:
+- **[Muyi Bao](https://github.com/BaoBao0926/BaoBao0926.github.io)**, **Ming Xu**, **Nanlin Jin**
 
-[English](./README.md) | [简体中文](./README-Chinese.md)
 
----
 
-# 1.Introduction to AlexCapsNet
-This is a project to improve the performance of Capsule Network by integrating the AlexNet and CapsNet, called AlexCapsNet, used in image classification. As results, we improve the CapsNet performance across the evaluation of 5 datasets. Moreover we evaluate the performance of the feature extraction layrs with different number of layers on the dataset with large number of categoires and with small number of categoires, and the reconstruction module on the dataset with and without noise across seven datasets.
+### NEWS:
+- 2025.02.24: The paper was published in [IEEE Access](https://ieeexplore.ieee.org/document/10900363) 
+- 2024.02.03: The repository is created and the code is uploeaded.
+
+
+# Abstract
+Capsule networks (CapsNet) are a pioneering architecture that can encode image features into vectors rather than scalars, addressing the limitations of traditional Convolutional Neural Networks (CNNs). This process is achieved by the dynamic routing algorithm and can maintain the image’s spatial hierarchies. CapsNet has demonstrated the state-of-the-art performance in simple datasets such as MNIST, but its performance degrades in more complex datasets. To solve this problem, AlexCapsNet architecture is proposed in this paper, in which the classic classification model AlexNet is used as the feature extraction layer. This allows CapsNet to capture deeper and more semantic features. The comprehensive evaluation with four datasets shows AlexCapsNet has improved performance when compared with the baseline and other CapsNet variants. Besides, our experiments on seven datasets show the reconstruction module in the CapsNet degrades the performance in the datasets with background noise. AlexCapsNet removes the reconstruction module and therefore can adapt to these complicated datasets.
+
+# The Code Files
 
 - All weighting file can be found in the "result" folder
-  
 - All code can be found in the folder:
   - AlexNet.py         is to train the Network
   - AlexNet_Module.py  is to create Networks
   - recon_visual.py    is to visualize the reconstructed images
   - utils.py           is to save some methods, such as training and evaluating codes, Dataloader and some simple methods.
 
-- Main Contribution are listed below:
-   - We have proposed a novel architecture, namely AlexCapsNet, which utilizes the AlexNet as feature extraction layers to capture deeper and more semantic features for CapsNet. This integration improve the performance, compared to the other variants of CapsNet.
-
-   - We have proposed the Shallow-AlexNet (S-AlexNet) module, which has fewer layers than AlexNet. Through our experiments, we find that S-AlexNet is more suitable for the datasets with many categories and AlexNet module excels in the datasets with few categories. This observation underscores the crucial role of the depth of the feature extraction layers in the performance of CapsNet.
-
-   - From our further investigation on different feature extraction layer modules, we find that the reconstruction module is more effective in the datasets without noise, and performs poorly in the datasets with background noise. This observation shows the potential vulnerability and limitation of the reconstruction module.
 
 # 2.Network Architecture
 
