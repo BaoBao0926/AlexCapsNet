@@ -30,21 +30,14 @@ Capsule networks (CapsNet) are a pioneering architecture that can encode image f
 <img src="https://github.com/BaoBao0926/AlexCapsNet/blob/main/figure/CapsNet-R.png" alt="CapsNet-R" width="300"/> <img src="https://github.com/BaoBao0926/AlexCapsNet/blob/main/figure/AlexCapsNet-R.png" alt="AlexCapsNet-R" width="400"/> 
 
 
-# 3.Experimental Dataset
+# Experimental Dataset
 
-All datasets are built-in methods in [torchvision](https://pytorch.org/vision/stable/datasets.html#built-in-datasets)
+All datasets are built-in methods in [torchvision](https://pytorch.org/vision/stable/datasets.html#built-in-datasets). The information of datasets is shown in table below and is visualized below.
 
-| Dataset           | [MNIST](https://yann.lecun.com/exdb/mnist/)   | [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) | [SVHN](http://ufldl.stanford.edu/housenumbers/)   | [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) | [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html) | [FOOD101](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/)   | [FLOWER102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)  |
-| -------           | ------- | -------       |  ---   | ------- | -------  | -------   | -------    | 
-| Categories Number | 10      | 10            | 10     | 10      |  100     | 101       |  102       |
-| Image Size        | 28×28   | 28×28         | 32×32  | 32×32   |  32×32   | ＜512×512 |  ＞500×500 |
-| Channel Number    | 1       | 1             |  3     | 3       |  3       | 3         |    3       |
-| Training Samples  | 50,000  | 50,000        | 73,257 | 50,000  |  50,000  |  75.750   |   6149     |
-| Testing Samples   | 10,000  | 10,000        | 26,032 | 10,000  |  10,000  |  25,250   |   1020     |   
-| Noise             | No      | No            | Yes    | Yes     |  Yes     |  Yes      | Yes        |
+<img src="https://github.com/BaoBao0926/AlexCapsNet/blob/main/figure/dataset.png" alt="dataset" width="250"/> <img src="https://github.com/BaoBao0926/AlexCapsNet/blob/main/figure/dataset_table.png" alt="table_dataset" width="500"/> 
 
 
-<img src="https://github.com/BaoBao0926/AlexCapsNet/blob/main/picture/datasetImage.png" width="500">
+
 
 
 
