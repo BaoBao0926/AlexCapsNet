@@ -163,4 +163,4 @@ In this section, we show all data genereated in this project together. Moreover,
 
 # Acknowledge
 
-Thank Prof. Nanlin Jin and Prof. Ming Xu for their guidance. Thank PhD.Borong Lin for his help to design this project.
+I personally thank Prof. Nanlin Jin and Prof. Ming Xu for their guidance, and thank PhD Borong Lin for his help to design this project.
